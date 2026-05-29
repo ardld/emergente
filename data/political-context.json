@@ -1,0 +1,3112 @@
+{
+    "version": "2026-05-28 v5.9.2 regen",
+    "context_ro": "CONTEXT POLITIC ROMÂNIA — 28 Mai 2026\n\nPREȘEDINȚIE:\nNicușor Dan este președinte în funcție, ales în mai 2025 la alegerile prezidențiale refăcute după anularea scrutinului din 2024. La un an de mandat, se confruntă cu un blocaj politic sever în privința desemnării unui nou premier. Consultările cu partidele parlamentare, purtate la Palatul Cotroceni, nu au produs un consens. Candidatura lui Eugen Tomac la funcția de premier, vehiculată ca scenariu de lucru al lui Nicușor Dan, a căzut miercuri, 27 mai 2026, dimineața, după ce nu a primit susținerea necesară. Conform unor surse, consilierul prezidențial Radu Burnete fusese deja plasat pe lista scurtă de posibili premieri înainte ca consultările să înceapă. PNL și-a exprimat nemulțumirea față de atitudinea lui Nicușor Dan, acuzând că președintele nu expune public pozițiile problematice ale PSD. Analistul Bogdan Chirieac a comentat că există o soluție pentru depășirea impasului, pe care niciun partid nu dorește să o respecte. Nicușor Dan a promulgat legea care majorează prețul rovinietei și a sesizat CCR privind legea utilizării plajei Mării Negre. Administrația Prezidențială a încheiat un contract de consultanță strategică cu o firmă din SUA, vizând relațiile cu Guvernul și Congresul american, atragerea de investiții și capacitatea de apărare — contract comentat public atât de Bogdan Chirieac, cât și de Andrei Caramitru. Nicușor Dan a lansat, de asemenea, un mesaj public împotriva dezinformării.\n\nGUVERN:\nIlie Bolojan conduce Guvernul în calitate de premier interimar, după căderea guvernului său prin moțiune de cenzură. Guvernul are puteri limitate, dar Bolojan continuă să gestioneze dosarele curente: a anunțat indicatori de performanță mai duri pentru companiile de stat din sectorul energetic, unde investițiile finanțate prin Fondul de Modernizare sunt întârziate, și a primit-o pe Nadia Comăneci la Palatul Victoria în contextul pregătirilor pentru „Anul Nadia Comăneci",
+    "tracked_persons": [],
+    "parties": {
+        "PSD": {
+            "full": "Partidul Social Democrat",
+            "leader": "Sorin Grindeanu",
+            "orientation": "social-democrat",
+            "coalition": true,
+            "color": "#c02020",
+            "slogan": "Dăm înapoi din ce au tăiat alții",
+            "ideology": "Social-democrație, statalismul",
+            "program_summary": "Stat protector, salarii/pensii mari, populism economic.",
+            "rhetorical_style": "Emoțional-protecționist. Noi vă dăm, ei vă iau.",
+            "key_themes": [
+                "pensii",
+                "salarii",
+                "stabilitate",
+                "social"
+            ],
+            "voter_dna": "Baza: 60+, rural/mic-urban, educatie medie-joasa, dependenti de pensii/salarii bugetare. Loialitate institutionala, conservatorism social pasiv, anxietate economica. Nostalgie comunista puternica (71% votanti PSD considera comunismul 'mai degraba bun'). Retele de patronaj local = cel mai puternic avantaj organizatoric. TV (Antena 3, Romania TV). ACUM: frustrati ca PSD nu are premierul dar accepta coalitia. Austeritatea Bolojan contrazice promisiunile Ciolacu. Risc: daca sacrificiul economic nu aduce beneficii vizibile, baza PSD migreaza spre AUR pe clivajul anti-austeritate."
+        },
+        "PNL": {
+            "full": "Partidul Național Liberal",
+            "leader": "Ilie Bolojan",
+            "orientation": "liberal-conservator",
+            "coalition": true,
+            "color": "#f5c300",
+            "slogan": "Aducem ordine în finanțele țării",
+            "ideology": "Liberal-conservatorism, pro-european",
+            "program_summary": "Mediu de afaceri, reformă, austeritate fiscală.",
+            "rhetorical_style": "Tehnocratic-reformist. Competență, nu populism.",
+            "key_themes": [
+                "reformă",
+                "competitivitate",
+                "europa",
+                "investiții"
+            ],
+            "voter_dna": "Baza: urban, clasa de mijloc, Ardeal traditional, liberi profesionisti. Pro-UE, pro-business, valori de centru-dreapta moderate. ACUM: Bolojan = premier tehnocrat credibil dar austeritatea ii costa popularitate. Incredere 38.1% / neincredere 38.4% — pe muchie. Disciplina fiscala necesara dar regresiva — TVA loveste consumatorii, nu capitalul. Risc: electorat care respecta competenta dar nu tolereaza durerea economica prelungita."
+        },
+        "USR": {
+            "full": "Uniunea Salvați România",
+            "leader": "Dominic Fritz",
+            "orientation": "liberal-progresist",
+            "coalition": true,
+            "color": "#00a2e0",
+            "slogan": "Transparență și reformă reală",
+            "ideology": "Liberalism progresist, anti-corupție",
+            "program_summary": "Transparență, digitalizare, anticorupție, europenism.",
+            "rhetorical_style": "Techno-moralist. Datele arată că...",
+            "key_themes": [
+                "transparență",
+                "digitalizare",
+                "anticorupție",
+                "europa"
+            ],
+            "voter_dna": "Baza: urban educati, tineri profesionisti, IT, diaspora returnata. Anti-coruptie, pro-reforme, pro-UE, valori progresiste. Problema fundamentala: conversie protest→vot (mobilizeaza la proteste dar pierde la urne). ACUM: tensiune identitara profunda — la guvernare cu PSD, dusmanul istoric. Baza reformista se simte tradata dar recunoaste pericolul AUR. Consum media: Digi24, G4Media, HotNews, podcasturi. Fritz = lider interimar, fara carisma de mobilizare."
+        },
+        "UDMR": {
+            "full": "Uniunea Democrată Maghiară din România",
+            "leader": "Kelemen Hunor",
+            "orientation": "etnic-pragmatic",
+            "coalition": true,
+            "color": "#006837",
+            "slogan": "Finanțare echitabilă pentru comunități",
+            "ideology": "Conservatorism comunitar, pragmatism",
+            "program_summary": "Autonomie culturală, educație maghiară, fonduri regionale.",
+            "rhetorical_style": "Pragmatic-calculat. Noi obținem rezultate concrete.",
+            "key_themes": [
+                "educație",
+                "minorități",
+                "fonduri",
+                "autonomie"
+            ],
+            "voter_dna": "Minoritatea maghiara: Harghita, Covasna, Mures. Solidaritate etnica = turnout stabil. Pragmatic de coalitie — obtine concesii pt comunitate (educatie, limba), evita conflicte. 5.1% sondaje — stabil la prag, risc de pierdere doar daca solidaritatea etnica se erodeaza. Kelemen Hunor = broker de coalitie experimentat."
+        },
+        "AUR": {
+            "full": "Alianța pentru Unirea Românilor",
+            "leader": "George Simion",
+            "orientation": "naționalist-populist",
+            "coalition": false,
+            "color": "#1a1a6e",
+            "slogan": "Noi suntem poporul, ei sunt trădătorii",
+            "ideology": "Naționalism-populist, euroskepticism",
+            "program_summary": "Suveranitate, familie tradițională, anti-sistem.",
+            "rhetorical_style": "Incendiar-mobilizator. Noi suntem poporul, ei sunt trădătorii.",
+            "key_themes": [
+                "suveranitate",
+                "neam",
+                "familie",
+                "anti-sistem"
+            ],
+            "voter_dna": "Baza: 18-44, educatie medie, mic-urban/rural, diaspora vocala. Angajament moral absolut + respingere totala institutii. TikTok-nativ. Nostalgie comunista (62% votanti AUR). Nationalist-suveranist dar si anti-austeritate social. Energizat de anularea alegerilor 2024 (narativ: 'sistemul e corupt, democratia e farsa'). ACUM: 19.4% sondaje — capitalizare pe nemultumirea economica + anti-austeritate. Daca AUR mentine 35%, alternativele de guvernare devin urgente. Simion = lider populist cu acces la TikTok/Telegram, protest coordination capacity."
+        },
+        "SOS": {
+            "full": "SOS România",
+            "leader": "Diana Șoșoacă",
+            "orientation": "extremă-dreapta",
+            "coalition": false,
+            "color": "#8b0000",
+            "slogan": "Ne vor morți, ne vând țara!",
+            "ideology": "Extremă dreapta, anti-NATO/UE",
+            "program_summary": "Ieșire din NATO, anti-UE, anti-vaccin, suveranitate totală.",
+            "rhetorical_style": "Apocaliptic-conspiraționist. Ne vor morți, ne vând țara!",
+            "key_themes": [
+                "trădare",
+                "suveranitate",
+                "NATO",
+                "poporul"
+            ],
+            "voter_dna": "Baza mica dar vocala: conspirationisti, anti-NATO/UE hard, pro-Rusia explicit. Sosoaca = personalitate polarizanta, performanta parlamentara de tip spectacol. 7.3% sondaje — baza fixa, greu de extins dar greu de erodat. Suprapunere partiala cu AUR pe segmentul suveranist radical."
+        },
+        "POT": {
+            "full": "Partidul Oamenilor Tineri",
+            "leader": "Anamaria Gavrilă",
+            "orientation": "suveranist-tânăr",
+            "coalition": false,
+            "color": "#4a4a4a",
+            "slogan": "Generația nouă la putere",
+            "ideology": "Suveranism tânăr, pro-Georgescu",
+            "program_summary": "Democrație directă, anti-establishment, pro-Georgescu.",
+            "rhetorical_style": "Mobilizator-generațional. Sistemul ne-a furat viitorul.",
+            "key_themes": [
+                "tineret",
+                "democrație directă",
+                "Georgescu",
+                "anti-sistem"
+            ],
+            "voter_dna": "Pro-Georgescu, suveranist digital, baza TikTok/Telegram. 4.6% sondaje — sub prag dar poate depasi la mobilizare. Narativ: 'Georgescu = salvator, CCR = stat paralel, alegerile au fost furate'. Electorat convins ca sistemul democratic e irecuperabil corupt."
+        }
+    },
+    "key_topics": [
+        "buget 2026",
+        "deficit bugetar",
+        "TVA 21%",
+        "inflație 9%",
+        "prețuri energie gaze",
+        "pensii înghețare",
+        "salarii publice înghețare",
+        "BNR dobândă curs",
+        "datorie publică",
+        "salariu minim",
+        "PNRR absorbție",
+        "Neptun Deep gaze",
+        "OECD aderare",
+        "Schengen terestru",
+        "autostrăzi infrastructură",
+        "coaliție PSD PNL USR tensiuni",
+        "Bolojan austeritate reformă",
+        "PSD ieșire guvernare",
+        "USR Dominic Fritz",
+        "moțiune cenzură",
+        "alegeri locale 2028",
+        "UDMR negocieri",
+        "AUR Simion opoziție",
+        "Georgescu partid nou",
+        "SOS Șoșoacă",
+        "POT Gavrilă suveranist",
+        "polarizare societate",
+        "proteste stradă",
+        "NATO bază Kogălniceanu",
+        "cheltuieli apărare 2% PIB",
+        "drone militare industrie",
+        "război hibrid dezinformare",
+        "atacuri cibernetice",
+        "securitate Marea Neagră",
+        "TikTok Telegram interferență electorală",
+        "Ucraina pace negocieri",
+        "Zelensky vizite sprijin",
+        "reunire Moldova Sandu",
+        "Trump tarife SUA",
+        "Iran conflict Orientul Mijlociu petrol",
+        "Rusia propagandă România",
+        "umbrela nucleară Franța Europa",
+        "DNA corupție anchete",
+        "CCR alegeri anulare",
+        "pensii speciale magistrați",
+        "criză locuințe imobiliare",
+        "emigrare diaspora vot",
+        "sănătate sistem spitale",
+        "educație învățământ reformă",
+        "criza demografică îmbătrânire"
+    ],
+    "context_en": "POLITICAL AND ECONOMIC CONTEXT — ROMANIA, MARCH 2026\n\nPresident Nicușor Dan (independent, pro-EU) won the May 2025 presidential rerun after the December 2024 elections were annulled by the Constitutional Court over Russian interference. PM Ilie Bolojan (PNL) leads a broad PSD-PNL-USR-UDMR coalition focused on deficit reduction (target 6.2% of GDP), OECD accession by end-2026, and structural reforms.\n\nThe coalition is tense: PSD votes for the budget but pushes social amendments; AUR (far-right opposition) has filed multiple failed no-confidence motions and is seeking presidential suspension. The 2026 budget includes VAT increase to 21%, dividend tax to 16%, public wage/pension freezes, and 33B EUR in investment. GDP growth forecast: ~1% in 2026, inflation ~6.5%. Middle East conflict escalation creating fuel price pressure. Zelensky visited Bucharest in March for energy/strategic partnership.\n\nPUBLIC OPINION KEY FINDINGS (INSCOP, Jan-Mar 2026):\nSecurity: 51% feel Romania is safe, 46.5% unsafe. Corruption seen as top threat (35.3%), ahead of disinformation (19.4%) and economic instability (18.7%). 64% worried about Romania getting involved in a war (up to 68% post-Iran attack). Pro-West orientation strong at 76.8%, but EU-exit sentiment tripled from 9.4% (Dec 2024) to 22.2% (Feb 2026) — alarming trend. NATO support still high (84.4% against exit) but eroding (11.8% pro-exit vs 8.1% before). French nuclear umbrella rejected by 51%, hosting nuclear weapons rejected by 69%.\nDefense: 75.6% support increased military spending, 88.7% want domestic weapons production, 50% see national defense industry as top security solution — sovereign defense resonates across party lines.\nReform: 59.3% support administrative-territorial reform, 60.8% support merging localities, 60.1% favor creating regions. USR voters most supportive (80-88%), AUR least but still majority.\nUkraine war: 63% don't expect peace in 2026. 30% think Russia will start a new European war within 3 years.\n2026 priorities: income growth (15.6%), jobs (15.6%), end Ukraine war (15%), price stability (14.7%), anti-corruption (14.5%) — virtually tied.\nMedia sentiment: Negative tone toward USA/Trump growing sharply in Romanian media. Iran crisis generated massive visibility with negative tone, increasing war fears.",
+    "tracked_roles": {
+        "Nicușor Dan": "Președintele României",
+        "Klaus Iohannis": "Fost Președinte al României (2014–2025)",
+        "Nicolae Ciucă": "Senator PNL, fost Prim-ministru",
+        "Ludovic Orban": "Președinte Forța Dreptei, fost Prim-ministru",
+        "Viorica Dăncilă": "Fostă Prim-ministru, fostă Președintă PSD",
+        "Mihai Tudose": "Europarlamentar PSD, fost Prim-ministru",
+        "Dacian Cioloș": "Fondator REPER, fost Prim-ministru",
+        "Victor Ponta": "Fost Prim-ministru, fost Președinte PSD",
+        "Traian Băsescu": "Fost Președinte al României",
+        "Ilie Bolojan": "Prim-ministru, Președinte PNL",
+        "Marian Neacșu": "Viceprim-ministru (PSD)",
+        "Tánczos Barna": "Viceprim-ministru (UDMR)",
+        "Radu Miruță": "Viceprim-ministru, Ministrul Apărării (USR)",
+        "Alexandru Nazare": "Ministrul Finanțelor (PNL)",
+        "Radu Marinescu": "Ministrul Justiției (PSD)",
+        "Alexandru Rogobete": "Ministrul Sănătății (USR)",
+        "Cseke Attila": "Ministrul Dezvoltării (UDMR)",
+        "Oana Țoiu": "Ministrul Afacerilor Externe (USR)",
+        "Dragoș Pîslaru": "Ministrul Investițiilor și Fondurilor Europene (PNL)",
+        "Bogdan Ivan": "Ministrul Energiei (PSD)",
+        "Ciprian Șerban": "Ministrul Transporturilor (PSD)",
+        "Florin Barbu": "Ministrul Agriculturii (PSD)",
+        "Marilen Pirtea": "Ministrul Educației și Cercetării (PNL)",
+        "Mircea Abrudean": "Președintele Senatului (PNL)",
+        "Robert Cazanciuc": "Vicepreședinte Senat (PSD)",
+        "Paul Stănescu": "Vicepreședinte Senat (PSD)",
+        "Cătălin Drulă": "Vicepreședinte Camera Deputaților (USR)",
+        "Natalia Intotero": "Vicepreședintă Camera Deputaților (PSD)",
+        "Marcel Ciolacu": "Fost Prim-ministru, PSD",
+        "Sorin Grindeanu": "Președinte PSD",
+        "Elena Lasconi": "Fostă președintă USR",
+        "Kelemen Hunor": "Președinte UDMR",
+        "Rareș Bogdan": "Prim-vicepreședinte PNL",
+        "Dominic Fritz": "Președinte USR, Primar Timișoara",
+        "George Simion": "Președinte AUR",
+        "Claudiu Târziu": "Cofondator AUR/ACT, Europarlamentar",
+        "Diana Șoșoacă": "Președinte SOS România",
+        "Călin Georgescu": "Fără funcție oficială, figură polarizantă",
+        "Eugen Tomac": "Președinte PMP, Europarlamentar",
+        "Crin Antonescu": "Senator PNL, fost candidat prezidențial 2025",
+        "Sebastian Burduja": "Deputat PNL, fost Ministru al Energiei",
+        "Emil Boc": "Primar Cluj-Napoca (PNL)",
+        "Ciprian Ciucu": "Primar General București (PNL) — ales 7 dec 2025, fost primar Sector 6",
+        "Mihai Chirica": "Primar Iași (PNL)",
+        "Vergil Chițac": "Primar Constanța (PNL)",
+        "Lia Olguța Vasilescu": "Primar Craiova (PSD)",
+        "Robert Negoiță": "Primar Sector 3 București (PSD) — reales iunie 2024",
+        "Daniel Băluță": "Primar Sector 4 București (PSD) — reales iunie 2024",
+        "Alin Tișe": "Președinte CJ Cluj (PNL)",
+        "Alfred Simonis": "Președinte CJ Timiș (PSD)",
+        "Gabriela Firea": "Europarlamentară PSD (S&D)",
+        "Victor Negrescu": "Europarlamentar PSD (S&D)",
+        "Vasile Dîncu": "Europarlamentar PSD, fost Ministru Apărării",
+        "Claudiu Manda": "Europarlamentar PSD (S&D)",
+        "Siegfried Mureșan": "Europarlamentar PNL (PPE)",
+        "Vlad Voiculescu": "Europarlamentar USR (Renew Europe)",
+        "Dan Barna": "Europarlamentar USR (Renew Europe)",
+        "Nicu Ștefănuță": "Europarlamentar independent (Verzii/ALE)",
+        "Roxana Mînzatu": "Vicepreședintă Executivă Comisia Europeană",
+        "Gabriel Vlase": "Directorul SIE",
+        "Laura Codruța Kövesi": "Procuror-șef European (EPPO)",
+        "Marius Voineag": "Procuror-șef DNA",
+        "Simina Tănăsescu": "Președinta CCR",
+        "Mugur Isărescu": "Guvernator BNR",
+        "Ion Țiriac": "Fondator Grupul Țiriac (~$2,3 mld.)",
+        "Dragoș Pavăl": "Cofondator Dedeman (~$2,1 mld.)",
+        "Adrian Pavăl": "Cofondator Dedeman (~$1,5 mld.)",
+        "Dan Voiculescu": "Fondator Intact Media Group",
+        "Gigi Becali": "Om de afaceri, proprietar FCSB",
+        "Dorinel Umbrărescu": "Fondator UMB Group (construcții)",
+        "Daniel Dines": "Cofondator și Co-CEO UiPath (~$1,3 mld.)",
+        "Ion Stoica": "Cofondator Databricks (~$5 mld.)",
+        "Christina Verchere": "CEO OMV Petrom",
+        "Ömer Tetik": "CEO Banca Transilvania",
+        "Horia Ciorcilă": "Președinte CA Banca Transilvania",
+        "Bogdan Chirițoiu": "Președinte Consiliul Concurenței",
+        "Mihai Gâdea": "CEO și realizator TV Antena 3 CNN",
+        "Mircea Badea": "Realizator TV Antena 3 CNN",
+        "Cosmin Prelipceanu": "Realizator TV Digi24",
+        "Andreea Esca": "Prezentatoare Știrile Pro TV",
+        "Victor Ciutacu": "Realizator TV România TV",
+        "Anca Alexandrescu": "Realizatoare TV Realitatea Plus",
+        "Cătălin Tolontan": "Director editorial HotNews.ro, investigații",
+        "Paul Radu": "Cofondator RISE Project, Director OCCRP",
+        "Cristian Tudor Popescu": "Jurnalist și comentator politic",
+        "Dana Budeanu": "Comentatoare politică și influencer",
+        "Lucian Mîndruță": "Jurnalist și comentator media",
+        "Adrian Sârbu": "Fondator Pro TV",
+        "Sebastian Ghiță": "Fondator România TV, fost deputat PSD",
+        "Bobby Păunescu": "Coproprietar B1 TV, producător film",
+        "Cătălin Predoiu": "Viceprim-ministru, Ministrul Afacerilor Interne (PNL)",
+        "Dragoș Anastasiu": "Viceprim-ministru pentru Reformă, Eurolines/Memento Group",
+        "Florin Manole": "Ministrul Muncii (PSD)",
+        "Irineu Darău": "Ministrul Economiei (USR)",
+        "Andras Demeter Istvan": "Ministrul Culturii (UDMR)",
+        "Anamaria Gavrilă": "Președinte POT",
+        "Matei Zaharia": "Cofondator Databricks (~$5 mld.)",
+        "Zoltan Teszári": "Proprietar RCS&RDS / Digi",
+        "Gruia Stoica": "Grampet Group",
+        "Răzvan Popescu": "Director General Romgaz",
+        "Bogdan-Nicolae Badea": "Președinte interimar Directorat Hidroelectrica",
+        "Ion Sterian": "Director General Transgaz",
+        "Cosmin Ghiță": "Director General Nuclearelectrica",
+        "Maria Rousseva": "Director General BRD – Société Générale",
+        "Alexandru Petrescu": "Președinte ASF",
+        "George Sergiu Niculescu": "Președinte ANRE",
+        "George Cristian Tuță": "Primar Sector 1 București (PNL-PSD) — ales iunie 2024",
+        "Rareș Hopincă": "Primar Sector 2 București (PSD) — ales iunie 2024, fost prefect",
+        "Vlad Popescu Piedone": "Primar Sector 5 București — ales iunie 2024, fiul lui Cristian Popescu Piedone",
+        "Stelian Bujduveanu": "Fost primar general interimar București (PNL) — viceprimar general PMB"
+    },
+    "polling_data": {
+        "inscop_march_2026": {
+            "source": "Barometrul Informat.ro — INSCOP Research, ediția VIII",
+            "date": "2-6 martie 2026",
+            "sample": "1100 respondenți, eroare ±3%, CATI",
+            "parliamentary_vote": {
+                "AUR": 38,
+                "PSD": 19.2,
+                "PNL": 14.5,
+                "USR": 11.4,
+                "UDMR": 4,
+                "SENS": 3.6,
+                "SOS": 3.3,
+                "POT": 3
+            },
+            "mobilized_vote": {
+                "AUR": 38.6,
+                "PSD": 16.9,
+                "PNL": 13.9,
+                "USR": 13.4,
+                "UDMR": 4.4,
+                "SENS": 3.6,
+                "SOS": 3.4,
+                "POT": 3.1
+            },
+            "trust": {
+                "George Simion": {
+                    "trust": 34.3,
+                    "distrust": 62.7,
+                    "notoriety": 98.8
+                },
+                "Nicușor Dan": {
+                    "trust": 27.6,
+                    "distrust": 69.5,
+                    "notoriety": 98.6
+                },
+                "Ilie Bolojan": {
+                    "trust": 25.1,
+                    "distrust": 71.6,
+                    "notoriety": 98.2
+                },
+                "Victor Ponta": {
+                    "trust": 20.9,
+                    "distrust": 74.8,
+                    "notoriety": 97.8
+                },
+                "Ciprian Ciucu": {
+                    "trust": 15.7,
+                    "distrust": 40.3,
+                    "notoriety": 63.1
+                },
+                "Dominic Fritz": {
+                    "trust": 14.9,
+                    "distrust": 39.6,
+                    "notoriety": 59
+                },
+                "Sorin Grindeanu": {
+                    "trust": 12,
+                    "distrust": 66.1,
+                    "notoriety": 82.7
+                },
+                "Dan Dungaciu": {
+                    "trust": 7.8,
+                    "distrust": 14.1,
+                    "notoriety": 25
+                }
+            },
+            "psd_government": {
+                "stay": 37.3,
+                "leave": 55.7,
+                "ns_nr": 7
+            },
+            "eu_vs_usa": {
+                "balance": 50.4,
+                "align_eu": 22.7,
+                "strengthen_usa": 22.1,
+                "ns_nr": 4.9
+            },
+            "peace_council": {
+                "good_decision": 57.8,
+                "bad_decision": 32.7,
+                "ns_nr": 9.6
+            },
+            "property_tax": {
+                "higher_than_eu": 62.4,
+                "same": 10.8,
+                "lower": 14.5,
+                "increase_helps": 24.2,
+                "increase_no_help": 72.3
+            },
+            "administrative_reform": {
+                "source": "Barometrul Informat.ro — INSCOP, ed. VIII, Cap.5",
+                "date": "2-6 martie 2026",
+                "territorial_reform_yes": 59.3,
+                "territorial_reform_no": 36.5,
+                "merge_localities_yes": 60.8,
+                "merge_localities_no": 35.1,
+                "create_regions_good": 60.1,
+                "create_regions_bad": 34.8,
+                "by_party": {
+                    "USR_reform_yes": 80,
+                    "PNL_reform_yes": 68,
+                    "PSD_reform_yes": 70,
+                    "AUR_reform_yes": 54,
+                    "USR_regions_good": 88,
+                    "AUR_regions_good": 58
+                }
+            },
+            "road_safety": {
+                "source": "Barometrul Informat.ro — INSCOP, ed. VIII, Cap.6",
+                "date": "2-6 martie 2026",
+                "roads_unsafe": 74.8,
+                "roads_safe": 23.8,
+                "suspend_license_agree": 55.7,
+                "suspend_license_against": 42,
+                "causes_irresponsible_drivers": 46.6,
+                "causes_poor_infrastructure": 32.1,
+                "causes_poor_education": 11.3,
+                "causes_weak_enforcement": 7.5
+            },
+            "national_security": {
+                "source": "Barometrul Securității Naționale — INSCOP/STG 2026",
+                "date": "23-27 feb + 3-13 martie 2026",
+                "sample": "2x 1100 respondenți, ±2.9%",
+                "romania_safe": 51.1,
+                "romania_unsafe": 46.5,
+                "top_threats": {
+                    "corruption": 35.3,
+                    "disinformation": 19.4,
+                    "economic_instability": 18.7,
+                    "military_attack": 7.8,
+                    "foreign_political_influence": 5.3,
+                    "cyber_attacks": 4.3,
+                    "energy_crisis": 3
+                },
+                "war_concern_worried": 64.1,
+                "war_concern_worried_post_iran": 68,
+                "orientation_west": 76.8,
+                "orientation_east": 10.1,
+                "nato_exit_yes": 11.8,
+                "nato_exit_no": 84.4,
+                "eu_exit_yes": 22.2,
+                "eu_exit_no": 74.4,
+                "iran_attack_justified": 33,
+                "iran_attack_unjustified": 47.9,
+                "france_nuclear_umbrella_agree": 39.3,
+                "france_nuclear_umbrella_against": 51,
+                "host_french_nukes_agree": 24.7,
+                "host_french_nukes_against": 68.9,
+                "increase_defense_spending_agree": 75.6,
+                "defense_industry_investment_important": 85.5,
+                "domestic_weapons_production_important": 88.7,
+                "domestic_tech_development_important": 91.4,
+                "drone_integration_agree": 72.1,
+                "state_support_military_tech_yes": 87.8,
+                "hybrid_war_affected": 70.2,
+                "cyber_risk_high": 70.2,
+                "top_security_solution_domestic_production": 50,
+                "trust_countries": {
+                    "USA": 55.8,
+                    "UK": 46.8,
+                    "France": 41.9,
+                    "Germany": 41.7,
+                    "Poland": 41.6,
+                    "Moldova": 29.9,
+                    "Bulgaria": 29.2,
+                    "Turkey": 28.6,
+                    "Serbia": 21.2,
+                    "Hungary": 20.1,
+                    "Ukraine": 16.8,
+                    "Russia": 12.6
+                },
+                "article5_respect": {
+                    "USA": 75.6,
+                    "Germany": 69.4,
+                    "France": 69.3,
+                    "UK": 63.9,
+                    "Poland": 61.7,
+                    "Hungary": 40.6
+                },
+                "crisis_programs": {
+                    "first_aid": 97.5,
+                    "evacuation": 94.4,
+                    "disinformation_detection": 88.3,
+                    "drone_courses": 81.4
+                }
+            },
+            "ukraine_war_4years": {
+                "source": "INSCOP / New Strategy Center",
+                "date": "28 ian - 6 feb 2026",
+                "peace_2026_likely": 30.4,
+                "peace_2026_unlikely": 63,
+                "russia_new_war_3years_yes": 30.1,
+                "russia_new_war_3years_no": 58.8
+            },
+            "agenda_2026": {
+                "source": "Barometrul Informat.ro — INSCOP, ed. VII, Cap.6",
+                "date": "12-15 ianuarie 2026",
+                "priorities": {
+                    "income_growth": 15.6,
+                    "jobs": 15.6,
+                    "end_ukraine_war": 15,
+                    "price_stability": 14.7,
+                    "fight_corruption": 14.5,
+                    "healthcare": 10.3,
+                    "education": 7.7,
+                    "public_safety": 1.6,
+                    "environment": 0.7
+                }
+            }
+        },
+        "inscop_war_feb_2026": {
+            "source": "INSCOP Research / New Strategy Center",
+            "title": "4 ani de război în Ucraina — Impact asupra opiniei publice din România",
+            "date": "28 ianuarie – 6 februarie 2026",
+            "sample": "1100 respondenți, eroare ±3%, CATI",
+            "war_ends_2026": {
+                "very_much": 8.9,
+                "somewhat": 21.5,
+                "total_yes": 30.4,
+                "somewhat_no": 24.5,
+                "not_at_all": 38.5,
+                "total_no": 63,
+                "ns_nr": 6.7,
+                "by_party": {
+                    "PSD": 30,
+                    "PNL": 31,
+                    "USR": 28,
+                    "AUR": 36
+                },
+                "by_age": {
+                    "18-29": 42,
+                    "30-44": 32,
+                    "45-59": 28,
+                    "60+": 26
+                },
+                "by_education": {
+                    "primara": 35,
+                    "medie": 29,
+                    "superioara": 28
+                },
+                "by_location": {
+                    "Bucuresti": 24,
+                    "urban_90k+": 34,
+                    "urban_90k-": 31,
+                    "rural": 30
+                },
+                "by_social_media": {
+                    "facebook": 36,
+                    "tiktok": 33,
+                    "instagram": 39
+                },
+                "by_sector": {
+                    "stat": 27,
+                    "privat": null
+                }
+            },
+            "russia_new_war_3y": {
+                "yes": 30.1,
+                "no": 58.8,
+                "ns_nr": 11,
+                "by_party": {
+                    "PSD": 35,
+                    "PNL": 29,
+                    "USR": 30,
+                    "AUR": 34
+                },
+                "by_age": {
+                    "18-29": 31,
+                    "30-44": 35,
+                    "45-59": 30,
+                    "60+": 26
+                },
+                "by_education": {
+                    "primara": 44,
+                    "medie": 28,
+                    "superioara": 17
+                },
+                "by_location": {
+                    "Bucuresti": 20,
+                    "urban_90k+": 28,
+                    "urban_90k-": 26,
+                    "rural": 35
+                },
+                "by_sector": {
+                    "stat": 23,
+                    "privat": 31
+                }
+            }
+        },
+        "inscop_agenda_jan_2026": {
+            "source": "Barometrul Informat.ro – INSCOP Research, ediția VII",
+            "title": "Capitolul 6: Agenda 2026",
+            "date": "12-15 ianuarie 2026",
+            "sample": "1100 respondenți, eroare ±3%, CATI",
+            "priorities_2026": {
+                "cresterea_veniturilor": {
+                    "total": 15.6,
+                    "by_party": {
+                        "PSD": 18,
+                        "PNL": 8,
+                        "USR": 6,
+                        "AUR": 20
+                    },
+                    "by_age": {
+                        "18-29": 15,
+                        "30-44": 17,
+                        "45-59": 11,
+                        "60+": 19
+                    },
+                    "by_education": {
+                        "primara": 22,
+                        "medie": 15,
+                        "superioara": 9
+                    },
+                    "by_location": {
+                        "Bucuresti": 13,
+                        "urban_90k+": 15,
+                        "urban_90k-": 20,
+                        "rural": 15
+                    },
+                    "by_sector": {
+                        "stat": 9,
+                        "privat": 14
+                    }
+                },
+                "crearea_locuri_munca": {
+                    "total": 15.6,
+                    "by_party": {
+                        "PSD": 16,
+                        "PNL": 13,
+                        "USR": 12,
+                        "AUR": 23
+                    },
+                    "by_age": {
+                        "18-29": 21,
+                        "30-44": 19,
+                        "45-59": 13,
+                        "60+": 12
+                    },
+                    "by_education": {
+                        "primara": 26,
+                        "medie": 14,
+                        "superioara": 6
+                    },
+                    "by_location": {
+                        "Bucuresti": 6,
+                        "urban_90k+": 7,
+                        "urban_90k-": 20,
+                        "rural": 20
+                    },
+                    "by_sector": {
+                        "stat": 7,
+                        "privat": 15
+                    }
+                },
+                "incheierea_razboi": {
+                    "total": 15,
+                    "by_party": {
+                        "PSD": 20,
+                        "PNL": 26,
+                        "USR": 19,
+                        "AUR": 12
+                    },
+                    "by_age": {
+                        "18-29": 9,
+                        "30-44": 10,
+                        "45-59": 18,
+                        "60+": 20
+                    },
+                    "by_education": {
+                        "primara": 15,
+                        "medie": 14,
+                        "superioara": 18
+                    },
+                    "by_location": {
+                        "Bucuresti": 10,
+                        "urban_90k+": 17,
+                        "urban_90k-": 16,
+                        "rural": 14
+                    },
+                    "by_sector": {
+                        "stat": 13,
+                        "privat": 13
+                    }
+                },
+                "stabilizare_preturi": {
+                    "total": 14.7,
+                    "by_party": {
+                        "PSD": 9,
+                        "PNL": 9,
+                        "USR": 10,
+                        "AUR": 16
+                    },
+                    "by_age": {
+                        "18-29": 14,
+                        "30-44": 17,
+                        "45-59": 17,
+                        "60+": 11
+                    },
+                    "by_education": {
+                        "primara": 9,
+                        "medie": 16,
+                        "superioara": 17
+                    },
+                    "by_location": {
+                        "Bucuresti": 12,
+                        "urban_90k+": 18,
+                        "urban_90k-": 11,
+                        "rural": 15
+                    },
+                    "by_sector": {
+                        "stat": 24,
+                        "privat": 22
+                    }
+                },
+                "combaterea_coruptiei": {
+                    "total": 14.5,
+                    "by_party": {
+                        "PSD": 11,
+                        "PNL": 22,
+                        "USR": 25,
+                        "AUR": 10
+                    },
+                    "by_age": {
+                        "18-29": 17,
+                        "30-44": 14,
+                        "45-59": 15,
+                        "60+": 14
+                    },
+                    "by_education": {
+                        "primara": 11,
+                        "medie": 14,
+                        "superioara": 21
+                    },
+                    "by_location": {
+                        "Bucuresti": 22,
+                        "urban_90k+": 20,
+                        "urban_90k-": 11,
+                        "rural": 12
+                    },
+                    "by_sector": {
+                        "stat": 12,
+                        "privat": 15
+                    }
+                },
+                "imbunatatire_sanatate": {
+                    "total": 10.3
+                },
+                "imbunatatire_educatie": {
+                    "total": 7.7
+                },
+                "siguranta_ordine": {
+                    "total": 1.6
+                },
+                "protejare_mediu": {
+                    "total": 0.7
+                }
+            }
+        },
+        "inscop_trust_jan_2026": {
+            "source": "Barometrul Informat.ro – INSCOP Research, ediția VII",
+            "title": "Capitolul VII: Încredere instituții naționale",
+            "date": "12-15 ianuarie 2026",
+            "sample": "1100 respondenți, eroare ±3%, CATI",
+            "institutions": {
+                "Biserica": {
+                    "jan_2026": 63.9,
+                    "jul_2025": 57.7,
+                    "trend": "+6.2pp",
+                    "distrust_jan_2026": 33.7,
+                    "by_party": {
+                        "PSD": 79,
+                        "PNL": 66,
+                        "USR": 28,
+                        "AUR": 75
+                    },
+                    "by_age": {
+                        "18-29": 63,
+                        "30-44": 53,
+                        "45-59": 62,
+                        "60+": 75
+                    },
+                    "by_education": {
+                        "primara": 80,
+                        "medie": 64,
+                        "superioara": 43
+                    },
+                    "by_location": {
+                        "Bucuresti": 42,
+                        "urban_90k+": 49,
+                        "urban_90k-": 66,
+                        "rural": 75
+                    }
+                },
+                "Armata": {
+                    "jan_2026": 61.8,
+                    "jul_2025": 63,
+                    "trend": "-1.2pp",
+                    "distrust_jan_2026": 35.3,
+                    "by_party": {
+                        "PSD": 79,
+                        "PNL": 77,
+                        "USR": 63,
+                        "AUR": 57
+                    },
+                    "by_age": {
+                        "18-29": 58,
+                        "30-44": 50,
+                        "45-59": 63,
+                        "60+": 72
+                    },
+                    "by_education": {
+                        "primara": 62,
+                        "medie": 64,
+                        "superioara": 56
+                    },
+                    "by_location": {
+                        "Bucuresti": 55,
+                        "urban_90k+": 57,
+                        "urban_90k-": 58,
+                        "rural": 68
+                    }
+                },
+                "Politia": {
+                    "jan_2026": 50,
+                    "jul_2025": 43.2,
+                    "trend": "+6.8pp",
+                    "distrust_jan_2026": 49.4,
+                    "by_party": {
+                        "PSD": 60,
+                        "PNL": 76,
+                        "USR": 46,
+                        "AUR": 40
+                    },
+                    "by_age": {
+                        "18-29": 63,
+                        "30-44": 49,
+                        "45-59": 45,
+                        "60+": 48
+                    },
+                    "by_location": {
+                        "Bucuresti": 56,
+                        "urban_90k+": 50,
+                        "urban_90k-": 48,
+                        "rural": 50
+                    }
+                },
+                "Presedintia": {
+                    "jan_2026": 27.9,
+                    "jul_2025": 34.8,
+                    "trend": "-6.9pp",
+                    "distrust_jan_2026": 70.4,
+                    "by_party": {
+                        "PSD": 18,
+                        "PNL": 64,
+                        "USR": 72,
+                        "AUR": 13
+                    },
+                    "by_age": {
+                        "18-29": 51,
+                        "30-44": 31,
+                        "45-59": 21,
+                        "60+": 21
+                    },
+                    "by_education": {
+                        "primara": 13,
+                        "medie": 25,
+                        "superioara": 53
+                    },
+                    "by_location": {
+                        "Bucuresti": 51,
+                        "urban_90k+": 35,
+                        "urban_90k-": 22,
+                        "rural": 22
+                    }
+                },
+                "Justitia": {
+                    "jan_2026": 25.4,
+                    "jul_2025": 20.4,
+                    "trend": "+5.0pp",
+                    "distrust_jan_2026": 70.5,
+                    "by_party": {
+                        "PSD": 35,
+                        "PNL": 25,
+                        "USR": 14,
+                        "AUR": 30
+                    },
+                    "by_age": {
+                        "18-29": 37,
+                        "30-44": 30,
+                        "45-59": 26,
+                        "60+": 16
+                    }
+                },
+                "Guvernul": {
+                    "jan_2026": 18.4,
+                    "jul_2025": 14.5,
+                    "trend": "+3.9pp",
+                    "distrust_jan_2026": 80.5,
+                    "by_party": {
+                        "PSD": 19,
+                        "PNL": 39,
+                        "USR": 50,
+                        "AUR": 12
+                    },
+                    "by_age": {
+                        "18-29": 41,
+                        "30-44": 14,
+                        "45-59": 13,
+                        "60+": 15
+                    },
+                    "by_education": {
+                        "primara": 9,
+                        "medie": 18,
+                        "superioara": 31
+                    },
+                    "by_location": {
+                        "Bucuresti": 36,
+                        "urban_90k+": 19,
+                        "urban_90k-": 18,
+                        "rural": 15
+                    }
+                },
+                "Parlamentul": {
+                    "jan_2026": 11.9,
+                    "jul_2025": 14.5,
+                    "trend": "-2.6pp",
+                    "distrust_jan_2026": 86.5,
+                    "by_party": {
+                        "PSD": 17,
+                        "PNL": 27,
+                        "USR": 20,
+                        "AUR": 9
+                    },
+                    "by_age": {
+                        "18-29": 30,
+                        "30-44": 9,
+                        "45-59": 8,
+                        "60+": 8
+                    },
+                    "by_education": {
+                        "primara": 6,
+                        "medie": 14,
+                        "superioara": 14
+                    },
+                    "by_location": {
+                        "Bucuresti": 28,
+                        "urban_90k+": 12,
+                        "urban_90k-": 9,
+                        "rural": 10
+                    }
+                }
+            }
+        },
+        "ires_dec_2025": {
+            "source": "IRES — Institutul Român pentru Evaluare și Strategie",
+            "title": "Proiecții pentru 2026",
+            "date": "4-17 decembrie 2025",
+            "sample": "1012 respondenți, eroare ±3.1%, CATI",
+            "personal_outlook": {
+                "much_better": 16,
+                "slightly_better": 23,
+                "total_better": 39,
+                "same": 32,
+                "slightly_worse": 15,
+                "much_worse": 13,
+                "total_worse": 28
+            },
+            "national_outlook": {
+                "much_better": 10,
+                "slightly_better": 17,
+                "total_better": 27,
+                "same": 19,
+                "slightly_worse": 19,
+                "much_worse": 35,
+                "total_worse": 44,
+                "note": "Decalaj masiv personal vs. national: 39% optimiști personal, doar 27% pentru țară"
+            },
+            "worries": {
+                "inflatie_costuri": {
+                    "foarte_mare": 37,
+                    "mare": 36,
+                    "total_worried": 73
+                },
+                "situatie_politica_tara": {
+                    "foarte_mare": 31,
+                    "mare": 28,
+                    "total_worried": 59
+                },
+                "situatie_politica_international": {
+                    "foarte_mare": 26,
+                    "mare": 29,
+                    "total_worried": 55
+                },
+                "sanatate_familie": {
+                    "foarte_mare": 26,
+                    "mare": 28,
+                    "total_worried": 54
+                },
+                "sanatate_personala": {
+                    "foarte_mare": 22,
+                    "mare": 27,
+                    "total_worried": 49
+                },
+                "stabilitate_loc_munca": {
+                    "foarte_mare": 14,
+                    "mare": 17,
+                    "total_worried": 31
+                }
+            },
+            "personal_needs": {
+                "sanatate_mai_buna": 25,
+                "stabilitate_financiara": 24,
+                "mai_putin_conflict": 19,
+                "mai_putin_stres": 7,
+                "loc_munca_sigur": 7,
+                "mediu_politic_predictibil": 6,
+                "timp_liber": 5
+            },
+            "gov_priorities": {
+                "reducerea_preturilor": 25,
+                "combaterea_coruptiei": 23,
+                "cresterea_salariilor": 18,
+                "investitii_sanatate": 10,
+                "imbunatatire_educatie": 8,
+                "siguranta_aparare": 7,
+                "consolidare_sistem_electoral": 2,
+                "consolidare_relatii_internationale": 2,
+                "infrastructura_rutiera": 2,
+                "digitalizare": 1,
+                "migratie_demografie": 1
+            },
+            "ukraine_war_evolution": {
+                "continues_same": 48,
+                "expands_europe": 20,
+                "ends_russia_wins": 15,
+                "ends_ukraine_wins": 10,
+                "ns_nr": 7
+            },
+            "gov_deficit_trust": {
+                "very_much": 8,
+                "much": 16,
+                "total_trust": 24,
+                "little": 35,
+                "none": 40,
+                "total_distrust": 75
+            }
+        },
+        "curs_jan_2026": {
+            "source": "CURS — Centrul de Sociologie Urbană și Regională",
+            "title": "Omnibus Național — Ianuarie 2026",
+            "date": "14-23 ianuarie 2026",
+            "sample": "1067 respondenți, eroare ±3%, CATI",
+            "country_direction": {
+                "right": 19,
+                "wrong": 76,
+                "ns_nr": 5
+            },
+            "trust_politicians": {
+                "Calin Georgescu": {
+                    "trust": 36,
+                    "distrust": 60,
+                    "not_known": 0
+                },
+                "George Simion": {
+                    "trust": 32,
+                    "distrust": 63,
+                    "not_known": 0
+                },
+                "Dan Nicusor": {
+                    "trust": 31,
+                    "distrust": 64,
+                    "not_known": 0
+                },
+                "Ciprian Ciucu": {
+                    "trust": 26,
+                    "distrust": 56,
+                    "not_known": 13
+                },
+                "Sorin Grindeanu": {
+                    "trust": 26,
+                    "distrust": 70,
+                    "not_known": 0
+                },
+                "Ilie Bolojan": {
+                    "trust": 23,
+                    "distrust": 73,
+                    "not_known": 0
+                },
+                "Diana Sosoaca": {
+                    "trust": 16,
+                    "distrust": 80,
+                    "not_known": 0
+                },
+                "Dominic Fritz": {
+                    "trust": 13,
+                    "distrust": 76,
+                    "not_known": 7
+                },
+                "Anamaria Gavrila": {
+                    "trust": 11,
+                    "distrust": 62,
+                    "not_known": 23
+                }
+            },
+            "institution_opinion": {
+                "good": {
+                    "Armata": 80,
+                    "Biserica": 77,
+                    "Pompieri": 61,
+                    "Politia": 53,
+                    "UE": 52,
+                    "Mediul_privat": 52,
+                    "ONU": 43,
+                    "Presa_scrisa_online": 42,
+                    "SRI": 34,
+                    "Televiziuni": 33,
+                    "Presedintia": 31,
+                    "Sindicate": 29,
+                    "CCR": 24,
+                    "Guvernul": 24,
+                    "Justitia": 22,
+                    "Parlamentul": 21
+                },
+                "bad": {
+                    "Armata": 17,
+                    "Biserica": 21,
+                    "Pompieri": 36,
+                    "Politia": 44,
+                    "UE": 44,
+                    "Mediul_privat": 45,
+                    "ONU": 46,
+                    "Presa_scrisa_online": 55,
+                    "SRI": 56,
+                    "Televiziuni": 64,
+                    "Presedintia": 67,
+                    "Sindicate": 60,
+                    "CCR": 73,
+                    "Guvernul": 73,
+                    "Justitia": 75,
+                    "Parlamentul": 75
+                }
+            },
+            "voting_intention": {
+                "AUR": 35,
+                "PSD": 23,
+                "PNL": 18,
+                "USR": 10,
+                "UDMR": 5,
+                "SOS": 5,
+                "POT": 2,
+                "Altul": 2
+            },
+            "economic_outlook": {
+                "improve": 7,
+                "unchanged": 29,
+                "worsen": 63,
+                "ns_nr": 1
+            },
+            "price_evolution": {
+                "increase_significant": 56,
+                "increase_moderate": 34,
+                "same": 7,
+                "decrease": 0,
+                "ns_nr": 3,
+                "total_increase": 90
+            },
+            "moldova_reunification": {
+                "yes": 56,
+                "no": 37,
+                "ns_nr": 7
+            }
+        },
+        "eurobarometer_104_autumn_2025": {
+            "sursa": "Standard Eurobarometer 104 — European Commission / Verian",
+            "data": "oct-nov 2025",
+            "metodologie": "Face-to-face, 26445 interviuri EU27, 15+",
+            "romania": {
+                "trust_ue": 54,
+                "trust_guvern_national": 33,
+                "trust_parlament_national": 28,
+                "trust_comisia_europeana": 53,
+                "imagine_pozitiva_ue": 47,
+                "imagine_negativa_ue": 34,
+                "imagine_neutra_ue": 16,
+                "optimism_viitor_ue": 60,
+                "pesimism_viitor_ue": 38,
+                "beneficiat_de_ue": 67,
+                "cetatean_ue_da": 55,
+                "economie_nationala_buna": 30,
+                "economie_nationala_rea": 66,
+                "economie_ue_buna": 48,
+                "economie_nationala_12luni_mai_bine": 22,
+                "economie_nationala_12luni_la_fel": 39,
+                "economie_nationala_12luni_mai_rau": 39,
+                "sustinere_euro": 59,
+                "sustinere_aparare_comuna": 66,
+                "preocupari_nationale": {
+                    "preturi_inflatie_cost_viata": 39,
+                    "situatia_economica": 24,
+                    "locuinte": 20,
+                    "sanatate": 24,
+                    "securitate_aparare": 24,
+                    "datoria_publica": 16,
+                    "educatie": 8,
+                    "criminalitate": 7,
+                    "situatia_internationala": 7,
+                    "amenintari_democratie": 8,
+                    "razboiul_ucraina": 6,
+                    "somaj": 9,
+                    "mediu_clima": 6
+                },
+                "preocupari_ue": {
+                    "razboiul_ucraina": 21,
+                    "imigratie": 11,
+                    "situatia_internationala": 20,
+                    "securitate_aparare": 15,
+                    "preturi_inflatie": 14,
+                    "situatia_economica": 17,
+                    "amenintari_democratie": 10,
+                    "influenta_ue_lume": 10,
+                    "mediu_clima": 7,
+                    "energie": 11,
+                    "conflict_orientul_mijlociu": 9
+                },
+                "ucraina": {
+                    "satisfactie_raspuns_guvern": 50,
+                    "satisfactie_raspuns_ue": 53,
+                    "acord_primire_refugiati": 69,
+                    "acord_sprijin_financiar_umanitar": 54,
+                    "acord_sanctiuni_rusia": 49,
+                    "acord_candidatura_ucraina_ue": 56,
+                    "acord_echipament_militar": 37
+                },
+                "buget_ue_prioritati": {
+                    "ocupare_sanatate_social": 37,
+                    "educatie_tineret_cultura": 33,
+                    "aparare_securitate": 29,
+                    "clima_mediu": 20,
+                    "locuinte": 43,
+                    "agricultura_dezvoltare_rurala": 38,
+                    "cercetare_inovare": 16,
+                    "imigratie": 19,
+                    "transport_energie": 21,
+                    "investitii_regionale": 24,
+                    "competitivitate_imm": 14
+                }
+            },
+            "eu27_comparatie": {
+                "trust_ue": 48,
+                "trust_guvern": 33,
+                "trust_parlament": 34,
+                "trust_comisia": 50,
+                "imagine_pozitiva": 42,
+                "optimism_viitor": 59,
+                "beneficiat_ue": 74,
+                "cetatean_ue": 73,
+                "sustinere_euro": 74,
+                "sustinere_aparare_comuna": 79,
+                "economie_nationala_rea": 60,
+                "preocupare_top_ue": "razboiul Ucraina 26%",
+                "preocupare_top_nationala": "preturi/inflatie 31%"
+            },
+            "note_analiza": "Romania: trust UE peste media (54 vs 48), dar sustinere euro sub media (59 vs 74). Preocupari nationale dominate de inflatie si economie. Sprijin militar Ucraina slab (37%, sub media UE 57%). Locuintele sunt preocupare majora (43% buget UE — una din cele mai mari din EU). Optimism viitor UE la 60%, usor peste media. Economia nationala perceputa negativ (66% rea)."
+        },
+        "eurobarometer_sp570_antisemitism_nov2025": {
+            "sursa": "Special Eurobarometer SP570 — Perceptions of Antisemitism",
+            "data": "noiembrie 2025",
+            "romania": {
+                "antisemitism_problema": 28,
+                "antisemitism_crescut": 13,
+                "antisemitism_scazut": 26,
+                "prieteni_evrei": 11,
+                "conflict_orientul_mijlociu_influenteaza_perceptia": 35,
+                "eu27_antisemitism_problema": 55,
+                "eu27_antisemitism_crescut": 47,
+                "pozitie_relativa": "Printre cele mai scazute din UE (BG 25%, CZ 24%, EL 24%, RO 28%)"
+            }
+        },
+        "eurobarometer_sp563_carta_drepturilor_feb2025": {
+            "sursa": "Special Eurobarometer SP563 — Carta Drepturilor Fundamentale UE",
+            "data": "februarie-martie 2025",
+            "romania": {
+                "auzit_de_carta": 27,
+                "stie_ce_este_carta": 5,
+                "se_simte_informat": 16,
+                "eu27_auzit": 49,
+                "eu27_stie": 12,
+                "pozitie_relativa": "Cel mai scazut nivel de cunoastere din UE (27% vs 49% media)",
+                "tendinta": "Scadere pe toate dimensiunile fata de 2019",
+                "interes_continut_carta": "-5pp",
+                "interes_cand_se_aplica": "-7pp (cea mai mare scadere din UE)",
+                "cunoastere_aplicare_institutii_ue": "-4pp (una din doar 2 tari cu scadere)"
+            }
+        },
+        "eurobarometer_fl564_educatie_digitala_mai2025": {
+            "sursa": "Flash Eurobarometer 564 — Educatie Digitala",
+            "data": "mai 2025",
+            "romania": {
+                "competente_digitale_esentiale_educatie": 94,
+                "competente_digitale_esentiale_ai_sigur": 91,
+                "predate_in_scoli": 97,
+                "sa_inceapa_devreme": 78,
+                "aceeasi_atentie_ca_citit_mate_stiinte": 90,
+                "scoli_neechipate": 51,
+                "profesori_nepregatiti": 40,
+                "familii_nu_isi_permit_echipamente": 47,
+                "parinti_nu_stiu_suficient": 28,
+                "toti_vor_avea_nevoie_ai_literacy_2030": 76,
+                "standarde_ue_tech_educatie": 53,
+                "finantare_echipamente": 40,
+                "echilibru_traditional_digital_in_scoli": 58,
+                "promovare_invatare_tech_specifice": 92,
+                "pozitie_relativa": "Printre cele mai ridicate din UE pe aproape toate indicatoarele de valorizare digitala"
+            }
+        },
+        "eurobarometer_ep_priorities_autumn_2025": {
+            "sursa": "Eurobarometer EP — Prioritatile cetatenilor pentru Parlamentul European",
+            "data": "toamna 2025",
+            "prioritati_eu27": {
+                "inflatie_preturi": 41,
+                "economie_locuri_munca": 35,
+                "aparare_securitate_ue": 34,
+                "sanatate_publica": 32,
+                "saracie_excluziune_sociala": 28,
+                "mediu_clima": 26,
+                "migratie_azil": 24,
+                "democratie_stat_drept": 23,
+                "agricultura_securitate_alimentara": 18
+            },
+            "valori_pe_care_ep_sa_le_apere": {
+                "pace": 55,
+                "democratie": 35,
+                "libertatea_de_exprimare": 34,
+                "drepturile_omului": 32,
+                "solidaritate_state_membre": 28,
+                "statul_de_drept": 26,
+                "egalitate_gen": 24,
+                "identitate_nationala_traditii": 23,
+                "toleranta_diversitate": 18
+            },
+            "context_romania": "Romania probabil prioritizeaza cost of living, economie si securitate (pattern est-european). Pace si identitate nationala/traditii probabil cu endorsement ridicat dat contextul regional (Marea Neagra, proximitate Ucraina)."
+        },
+        "eurobarometer_sp560_ecommunications_2025": {
+            "sursa": "Special Eurobarometer 560 — e-Communications and Digital Single Market",
+            "data": "ianuarie-februarie 2025",
+            "romania": {
+                "posesie_telefon_mobil": 96,
+                "acces_internet_gospodarie": 77,
+                "nota": "Acces internet -3pp fata de precedentul val"
+            }
+        },
+        "parliamentary_series_2025_2026": {
+            "note": "Serie agregata din INSCOP, CURS, Avangarde, IRES, Sociopol, ARP, FlashData. Variatiile intre case reflecta efecte de house (vezi house_effects). Actualizat mai 2026: serie include valul post-motiune de cenzura.",
+            "trajectory_aur": "29% ian 2025 (Avangarde) -> 32% mai (Avangarde) -> 36% mai (Sociopol) -> 40.5% iunie (INSCOP) -> 41% sept (Avangarde) -> 38% oct (INSCOP) -> 36% dec (IRES) -> 41% ian 2026 (INSCOP) -> 35% ian (CURS) -> 37-38% mar-apr (INSCOP, Avangarde, Sociopol, ARP) -> 34% apr (CURS). Mediu lunar peste 35% din vara 2025.",
+            "trajectory_psd": "Volatil 14-25%; stabilizat 19-24% sezon rece 2025-2026; cadere pe locul 3 in mai 2026 (13-17% INSCOP / 24% CURS — efect de house pronuntat).",
+            "trajectory_pnl": "13-19% (cel mai stabil) pana in apr 2026; salt la 20-22% in mai 2026 (INSCOP) dupa motiunea de cenzura — Bolojan demis dar popular, PNL trece pe locul 2 pentru prima data in 6 ani.",
+            "trajectory_usr": "Eroziune de la 14% ian 2025 la 9-12% trim. 4 2025. Outlier Sociopol 18% mar 2026 — restul caselor sub 12%.",
+            "trajectory_sos": "Colaps de la 6% ian 2025 la 1-3% pana in august. AUR a absorbit baza nationalist-populista.",
+            "selected_waves": [
+                {
+                    "date": "2025-01",
+                    "pollster": "INSCOP",
+                    "AUR": 33,
+                    "PSD": 19,
+                    "PNL": 14,
+                    "USR": 14,
+                    "SOS": 6,
+                    "POT": 5,
+                    "UDMR": 5
+                },
+                {
+                    "date": "2025-06-23",
+                    "pollster": "INSCOP",
+                    "AUR": 40.5,
+                    "PSD": 13.7,
+                    "PNL": 17.3,
+                    "USR": 13.1
+                },
+                {
+                    "date": "2025-09-13",
+                    "pollster": "Avangarde",
+                    "AUR": 41,
+                    "PSD": 19,
+                    "PNL": 13,
+                    "USR": 12,
+                    "sample": 1300,
+                    "method": "CATI"
+                },
+                {
+                    "date": "2025-10-20",
+                    "pollster": "CURS",
+                    "AUR": 35,
+                    "PSD": 24,
+                    "PNL": 15,
+                    "USR": 10,
+                    "sample": 1036,
+                    "method": "face-to-face"
+                },
+                {
+                    "date": "2025-12-10",
+                    "pollster": "IRES",
+                    "AUR": 36,
+                    "PSD": 21,
+                    "PNL": 18,
+                    "USR": 11
+                },
+                {
+                    "date": "2026-01-14",
+                    "pollster": "INSCOP",
+                    "AUR": 40.9,
+                    "PSD": 18.2,
+                    "PNL": 13.5,
+                    "USR": 11.7,
+                    "sample": 1100,
+                    "method": "CATI"
+                },
+                {
+                    "date": "2026-01-18",
+                    "pollster": "CURS",
+                    "AUR": 35,
+                    "PSD": 24,
+                    "PNL": 18,
+                    "USR": 10,
+                    "sample": 1067,
+                    "method": "CATI"
+                },
+                {
+                    "date": "2026-03-13",
+                    "pollster": "Avangarde",
+                    "AUR": 35,
+                    "PSD": 22,
+                    "PNL": 14,
+                    "USR": 11,
+                    "sample": 1000,
+                    "method": "CATI"
+                },
+                {
+                    "date": "2026-03-25",
+                    "pollster": "CURS",
+                    "AUR": 33,
+                    "PSD": 24,
+                    "PNL": 16,
+                    "USR": 9,
+                    "sample": 1517,
+                    "method": "CATI"
+                },
+                {
+                    "date": "2026-03-31",
+                    "pollster": "Sociopol",
+                    "AUR": 35.9,
+                    "PSD": 18,
+                    "PNL": 16,
+                    "USR": 18,
+                    "sample": 1008,
+                    "method": "CATI"
+                },
+                {
+                    "date": "2026-04-05",
+                    "pollster": "ARP",
+                    "AUR": 35.8,
+                    "PSD": 17.2,
+                    "PNL": 14.2,
+                    "USR": 11.2,
+                    "sample": 1187,
+                    "method": "CAWI"
+                },
+                {
+                    "date": "2026-04-29",
+                    "pollster": "CURS",
+                    "AUR": 34,
+                    "PSD": 23,
+                    "PNL": 18,
+                    "USR": 10,
+                    "sample": 1098,
+                    "method": "CATI"
+                },
+                {
+                    "date": "2026-05-14",
+                    "pollster": "CURS",
+                    "AUR": 32,
+                    "PSD": 24,
+                    "PNL": 20,
+                    "USR": 10,
+                    "UDMR": 5,
+                    "sample": 1664,
+                    "method": "face-to-face"
+                },
+                {
+                    "date": "2026-05-14",
+                    "pollster": "INSCOP",
+                    "AUR": 38,
+                    "PSD": 17.5,
+                    "PNL": 20.3,
+                    "USR": 10,
+                    "UDMR": 5,
+                    "sample": 1100,
+                    "method": "CATI"
+                }
+            ],
+            "house_effects": {
+                "INSCOP": "Tinde sa raporteze AUR mai sus (+2-4pp) si PSD mai jos fata de consensul cross-poll. Eroare istorica ~14% (cea mai mica in RO).",
+                "CURS": "Tinde sa raporteze AUR mai jos (-2-3pp) si PSD mai sus. Metodologie face-to-face vs CATI poate explica.",
+                "Sociopol": "Pro-AUR si pro-USR vs consensul (probabil prin sample online/CATI mixt).",
+                "ARP": "Sub consens pe PSD si USR (poll unic, indicativ)."
+            }
+        },
+        "presidential_2025": {
+            "round_1_may_2025": {
+                "Simion (AUR)": 40.69,
+                "context": "Dupa anularea alegerilor din decembrie 2024 (Calin Georgescu interzis). AUR domina primul tur."
+            },
+            "round_2_may_2025": {
+                "Nicusor Dan": 53.6,
+                "George Simion": 46.4,
+                "winning_coalition": "Urban dezvoltat + 60+ + secui (concentrare etnica maghiara). Coalitie defensiva pro-europeana in extremis."
+            },
+            "trust_trajectory_2025_2026": {
+                "note": "Simion lider stabil; Dan in declin lent; Bolojan eroziune.",
+                "waves": [
+                    {
+                        "source": "CURS",
+                        "date": "2025-07",
+                        "Simion": 38,
+                        "Dan": 38
+                    },
+                    {
+                        "source": "CURS",
+                        "date": "2025-09",
+                        "Simion": 38,
+                        "Dan": 34
+                    },
+                    {
+                        "source": "CURS",
+                        "date": "2025-12",
+                        "Simion": 37,
+                        "Dan": 35
+                    },
+                    {
+                        "source": "CURS",
+                        "date": "2026-01",
+                        "Simion": 32,
+                        "Dan": 31
+                    },
+                    {
+                        "source": "INSCOP",
+                        "date": "2026-03",
+                        "Simion": 34.3,
+                        "Dan": 27.6,
+                        "Bolojan": 25.1
+                    },
+                    {
+                        "source": "ARP",
+                        "date": "2026-04",
+                        "Simion": 31.3,
+                        "Dan": 24.2,
+                        "Bolojan": 21.8
+                    }
+                ]
+            }
+        },
+        "eurobarometer_105_spring_2026": {
+            "source": "Standard Eurobarometer 105 — Spring 2026 (EC DG Communication)",
+            "fieldwork": "12 martie - 5 aprilie 2026",
+            "sample_ro": "~1056 respondenti",
+            "trust_eu": {
+                "romania": 56,
+                "eu_avg": 51
+            },
+            "eu_membership_beneficial": {
+                "romania": 70,
+                "eu_avg": 72
+            },
+            "common_defence_support": {
+                "romania": 79,
+                "eu_avg": 81,
+                "context": "Cel mai inalt nivel UE inregistrat istoric."
+            },
+            "ukraine_refugees_welcome": {
+                "romania": 71,
+                "eu_avg": 80,
+                "gap_pp": -9
+            },
+            "ukraine_military_aid": {
+                "romania": 51,
+                "eu_avg": 59,
+                "gap_pp": -8
+            },
+            "russia_sanctions": {
+                "romania": 70,
+                "eu_avg": 72
+            },
+            "eu_protect_from_crises": {
+                "romania": 47,
+                "eu_avg": 66,
+                "gap_pp": -19,
+                "note": "Diferenta mare — RO prefera raspuns national, posibil reflectand orientare NATO-prioritar."
+            },
+            "member_states_united": {
+                "romania": 73,
+                "eu_avg": 89
+            },
+            "rule_of_law_conditionality": {
+                "romania": 61,
+                "eu_avg": 85,
+                "note": "Sensibilitate la conditionalitatea statului de drept dat fiind dezbaterea interna pe reforma judiciara."
+            },
+            "cost_of_living_top_concern": {
+                "national_level": 36,
+                "personal_level": 52,
+                "note": "Preocupare dominanta peste tot, dar acuta in RO dat fiind inflatia 9.9% + salarii inghetate."
+            },
+            "trust_us_negative_in_eu": {
+                "eu_avg_negative": 74,
+                "delta_vs_prior": "+14pp",
+                "note": "Exceptie RO si HU (vezi trump_factor)."
+            },
+            "youth_authoritarian_signal": "GLOBSEC Trends: tinerii 18-34 ani RO cel mai probabil sa spuna ca un regim totalitar fara alegeri ar fi BUN pentru tara. Cei mai putin probabili sa identifice extrema dreapta ca amenintare."
+        },
+        "inscop_may_2026": {
+            "source": "Barometrul Informat.ro — INSCOP Research, ediția XI",
+            "date": "11-14 mai 2026",
+            "sample": "1100 respondenți, eroare ±3%, CATI",
+            "note": "Primul sondaj după moțiunea de cenzură care a demis Guvernul Bolojan (5 mai 2026). În premieră în ultimii 6 ani, PNL trece înaintea PSD pe locul 2.",
+            "parliamentary_vote": {
+                "AUR": 38.2,
+                "PNL": 20.3,
+                "PSD": 17.5,
+                "USR": 10,
+                "UDMR": 5,
+                "SOS": 2.9,
+                "SENS": 2.5,
+                "POT": 1.9
+            },
+            "mobilized_vote": {
+                "AUR": 41.4,
+                "PNL": 21.9,
+                "PSD": 13.3,
+                "USR": 10.8,
+                "UDMR": 3.4,
+                "SOS": 3.1,
+                "SENS": 2.3,
+                "POT": 1.7
+            },
+            "shifts_vs_april": {
+                "AUR": "stabil (banda 38-41%)",
+                "PNL": "+5pp — tractat de popularitatea lui Bolojan post-moțiune",
+                "PSD": "-3pp — cădere pe locul 3"
+            }
+        },
+        "curs_may_2026": {
+            "source": "CURS — Centrul de Sociologie Urbană și Regională",
+            "date": "1-14 mai 2026",
+            "sample": "1664 respondenți, eroare ±2.4%, față-în-față",
+            "voting_intention": {
+                "AUR": 32,
+                "PSD": 24,
+                "PNL": 20,
+                "USR": 10,
+                "UDMR": 5,
+                "PNRR-Piedone": 4,
+                "SOS": 3,
+                "Altul": 2
+            },
+            "early_elections_yes": 56,
+            "early_elections_no": 41,
+            "trust_leaders": {
+                "Calin Georgescu": 32,
+                "Nicusor Dan": 31
+            },
+            "ideology": {
+                "crestin-democrat": 29,
+                "nationalist": 24,
+                "social-democrat": 16,
+                "liberal": 12,
+                "progresist": 10
+            },
+            "note": "Niciun lider nu depășește 35% favorabilitate. Electorat predominant conservator."
+        }
+    },
+    "entities": [
+        {
+            "name": "Președinție",
+            "keywords": [
+                "Nicușor Dan",
+                "Nicusor Dan",
+                "Cotroceni",
+                "Administrația Prezidențială",
+                "Administrația Prezidentiala",
+                "decret prezidențial",
+                "președintele României",
+                "presedintele Romaniei"
+            ]
+        },
+        {
+            "name": "Societate",
+            "keywords": [
+                "buget",
+                "bugetul",
+                "deficit bugetar",
+                "taxe noi",
+                "impozit",
+                "pensii",
+                "pensie",
+                "recalculare",
+                "sănătate",
+                "spital",
+                "CNAS",
+                "medici",
+                "educație",
+                "școală",
+                "profesori",
+                "energie",
+                "ANRE",
+                "gaze naturale",
+                "infrastructură",
+                "autostradă",
+                "CFR",
+                "protest",
+                "proteste",
+                "grevă",
+                "salarii",
+                "salariu minim",
+                "prețuri",
+                "inflație",
+                "PIB",
+                "ANAF"
+            ]
+        },
+        {
+            "name": "Guvern",
+            "keywords": [
+                "Guvernul",
+                "Guvernul României",
+                "Bolojan",
+                "Ilie Bolojan",
+                "Palatul Victoria",
+                "OUG",
+                "ordonanță de urgență",
+                "ședință de guvern",
+                "ședința de guvern"
+            ]
+        },
+        {
+            "name": "Justiție",
+            "keywords": [
+                "CCR",
+                "Curtea Constituțională",
+                "Curtea Constitutionala",
+                "DNA",
+                "DIICOT",
+                "CSM",
+                "ÎCCJ",
+                "magistrați",
+                "judecători",
+                "parchet",
+                "procurori"
+            ]
+        },
+        {
+            "name": "Parlament",
+            "keywords": [
+                "Parlamentul",
+                "Parlamentul României",
+                "Camera Deputaților",
+                "Camera Deputatilor",
+                "Senatul",
+                "Senatul României",
+                "plen",
+                "vot în plen",
+                "proiect de lege",
+                "lege adoptată"
+            ]
+        },
+        {
+            "name": "Putere",
+            "keywords": [
+                "PSD",
+                "PNL",
+                "USR",
+                "UDMR",
+                "coaliția",
+                "coaliția de guvernare",
+                "Ciolacu",
+                "Marcel Ciolacu",
+                "Grindeanu",
+                "Sorin Grindeanu",
+                "Lasconi",
+                "Elena Lasconi",
+                "Kelemen Hunor",
+                "Rareș Bogdan",
+                "Rares Bogdan"
+            ]
+        },
+        {
+            "name": "Opoziție",
+            "keywords": [
+                "AUR",
+                "George Simion",
+                "Simion",
+                "SOS România",
+                "SOS Romania",
+                "Șoșoacă",
+                "Sosoaca",
+                "Călin Georgescu",
+                "Calin Georgescu",
+                "Claudiu Târziu",
+                "Claudiu Tarziu",
+                "Georgescu"
+            ]
+        },
+        {
+            "name": "Externe",
+            "keywords": [
+                "NATO",
+                "Uniunea Europeană",
+                "Bruxelles",
+                "Schengen",
+                "Ucraina",
+                "Rusia",
+                "Republica Moldova",
+                "MAE",
+                "ministerul de externe",
+                "ambasadorul României",
+                "politica externă",
+                "acorduri bilaterale",
+                "Schengen terestru"
+            ]
+        },
+        {
+            "name": "Mondial",
+            "keywords": [
+                "Trump",
+                "SUA",
+                "America",
+                "Putin",
+                "Moscova",
+                "Kiev",
+                "Zelenski",
+                "China",
+                "Beijing",
+                "Xi Jinping",
+                "Iran",
+                "Israel",
+                "Gaza",
+                "Orientul Mijlociu",
+                "Comisia Europeană",
+                "FMI",
+                "Banca Mondială",
+                "ONU",
+                "tarife",
+                "sancțiuni",
+                "embargo",
+                "summit",
+                "G7",
+                "G20",
+                "refugiați",
+                "migrație",
+                "climat",
+                "COP",
+                "petrol",
+                "energie nucleară",
+                "războiul din Ucraina",
+                "criză economică globală",
+                "BRICS",
+                "semiconductori",
+                "inteligență artificială"
+            ]
+        }
+    ],
+    "spectrum_psychology": {
+        "1": "PROGRESIST: Openness ridicat (Big Five), identitate europeana, cosmopolitism. Daniel David: tipologia 'modernista' — incredere in institutii externe (UE, NATO), scepticism fata de autoritate locala. Ingrijorat de suveranism, sustine coalitia contra AUR dar o detesta. Vrea alegeri libere dar se teme de rezultat. Consuma presa de calitate (recorder.ro, pressone.ro, g4media.ro), sceptic fata de TV. Sensibil la criza electorala 2024 — percepe amenintare existentiala la democratie.",
+        "2": "CENTRU-STANGA: Pragmatic reformist, anti-coruptie, rational-instrumental. Oscileaza intre USR si abtinere. Frustrat de lipsa reformelor dar recunoaste pericolul AUR. Daniel David: 'individualismul pragmatic' — nu idealist, ci calculat. Vrea meritocratie, transparenta, digitalizare. Consuma mix: Digi24, HotNews, podcasturi. Problema conversiei protest→vot: merge la proteste dar nu se duce la urne.",
+        "3": "CENTRU: Vrea stabilitate. Obosit de criza politica permanenta, nu mai crede pe nimeni. Inflatia si facturile conteaza mai mult decat politica. 45% gospodarii abia fac fata. Daniel David: 'fatalismul pragmatic' — adaptare prin dezangajare. Votant oscilant, decide tarziu, influenzabil prin probleme concrete (preturi, sanatate, transport). TV generalist (ProTV, Digi24). Mitul Manole: accepta sacrificiu DACA vede beneficiu — altfel explodeaza.",
+        "4": "CENTRU-DREAPTA: Traditional, patriot. Simpatic cu Georgescu dar nu extremist. Frustrat de UE. Vrea lider puternic. Pro-biserica, sceptic NATO. Nostalgie comunista (78% din 60+). Daniel David: 'colectivismul traditional' — comunitate, familie, autoritate morala. Consuma TV (Antena 3, Romania TV), sceptic fata de 'presa independenta'. 40+, rural, credinta religioasa ca ancora identitara. Vulnerabil la narativa rusa 'valori traditionale sub atac'.",
+        "5": "CONSERVATOR RADICAL: Nationalist mobilizat prin furie. Convins ca alegerile au fost furate. CCR = statul paralel, Georgescu = salvator. Anti-UE, anti-NATO, anti-'sistem'. TikTok/Telegram ca sursa primara. Daniel David: 'suprareactivitatea compensatorie' — furie ca mecanism de coping. Diaspora + tineri radicalizati, educatie medie, mic-urban. Spatiul mioritic la punct de ruptura: acumulare de frustrari care pot erupe in mobilizare exploziva."
+    },
+    "spectrum_labels": {
+        "1": "Progresist — Pro-UE, cosmopolit",
+        "2": "Centru-stânga — Reformist pragmatic",
+        "3": "Centru — Neutru, stabilitate",
+        "4": "Centru-dreapta — Tradițional, patriot",
+        "5": "Conservator — Naționalist, suveranist"
+    },
+    "media_lean": {
+        "recorder.ro": -0.1,
+        "riseproject.ro": -0.05,
+        "pressone.ro": -0.1,
+        "europalibera.org": -0.05,
+        "rfi.ro": -0.05,
+        "agerpres.ro": 0,
+        "news.ro": 0,
+        "g4media.ro": -0.15,
+        "hotnews.ro": -0.15,
+        "digi24.ro": -0.05,
+        "stirileprotv.ro": 0,
+        "veridica.ro": -0.1,
+        "defapt.ro": -0.1,
+        "presshub.ro": -0.05,
+        "contributors.ro": -0.15,
+        "panorama.ro": -0.1,
+        "dilemaveche.ro": -0.15,
+        "europafm.ro": -0.05,
+        "cursdeguvernare.ro": 0,
+        "universul.net": -0.05,
+        "context.ro": -0.1,
+        "republica.ro": -0.15,
+        "r3media.ro": -0.05,
+        "buletin.de": -0.1,
+        "investigatoria.ro": -0.1,
+        "zf.ro": 0.05,
+        "profit.ro": 0.05,
+        "financialintelligence.ro": 0,
+        "economedia.ro": 0,
+        "biziday.ro": 0.02,
+        "b365.ro": 0,
+        "wall-street.ro": 0.05,
+        "money.ro": 0,
+        "businessmagazin.ro": 0,
+        "economica.net": 0,
+        "transilvaniabusiness.ro": 0,
+        "alephbusiness.ro": -0.05,
+        "tvr.ro": 0.02,
+        "observatornews.ro": 0.03,
+        "digifm.ro": -0.05,
+        "libertatea.ro": -0.08,
+        "adevarul.ro": 0.05,
+        "romanialibera.ro": 0.1,
+        "spotmedia.ro": -0.12,
+        "cotidianul.ro": 0.15,
+        "ziare.com": 0,
+        "mediafax.ro": 0.03,
+        "thediplomat.ro": 0,
+        "catavencii.ro": -0.05,
+        "timesnewroman.ro": 0,
+        "gandul.ro": 0.1,
+        "mainnews.ro": 0,
+        "media9.ro": 0,
+        "valahia.news": 0.05,
+        "antena3.ro": 0.32,
+        "romaniatv.net": 0.38,
+        "b1tv.ro": 0.22,
+        "realitatea.net": 0.22,
+        "stiripesurse.ro": 0.18,
+        "focuspress.ro": 0.15,
+        "puterea.ro": 0.22,
+        "stirilekanald.ro": 0.1,
+        "jurnalul.ro": 0.1,
+        "luju.ro": 0.35,
+        "impact.ro": 0,
+        "life.ro": 0,
+        "spynews.ro": 0,
+        "bbc.com": -0.05,
+        "reuters.com": 0,
+        "dw.com": -0.05,
+        "france24.com": -0.05,
+        "politico.eu": -0.05,
+        "balkaninsight.com": -0.05,
+        "euractiv.ro": -0.05,
+        "euronews.com": 0,
+        "carnegieendowment.org": -0.05,
+        "defensenews.com": 0,
+        "aljazeera.com": -0.1
+    },
+    "psychological_framework": {
+        "sursa_principala": "David, D. (2015). Psihologia poporului roman: profil psihologic",
+        "sursa_istorica": "Draghicescu, D. (1907). Din psihologia poporului roman",
+        "big_five_vs_americani": {
+            "extraversiune": "mai mare — sociabilitate, expresivitate, gregarism",
+            "nevroticism": "mai mare — reactivitate emotionala, irasciblitate",
+            "deschidere": "mai mica — preferinta mai scazuta pt noutate, gandire abstracta",
+            "agreabilitate": "mai mica — cinism, scepticism, neincredere in straini",
+            "constiinciozitate": "mai mica — planificare mai putin sistematica, recunoscuta si in auto- si hetero-stereotipuri"
+        },
+        "trasaturi_clinice_semnificative": {
+            "interpersonal": [
+                "amoralitate",
+                "indiferenta",
+                "cinism",
+                "convingeri mizantrope",
+                "atitudini antisociale",
+                "ostilitate controlata"
+            ],
+            "emotional": [
+                "rusine",
+                "agresivitate",
+                "frica generalizata",
+                "represie/supresie"
+            ],
+            "concept_sine": [
+                "forta ego-ului",
+                "experienta bizara"
+            ]
+        },
+        "auto_stereotipuri_pozitive": [
+            "ospitalier",
+            "prietenos",
+            "tolerant",
+            "inteligent",
+            "religios",
+            "gregarious",
+            "adaptabil"
+        ],
+        "auto_stereotipuri_negative": [
+            "indiferent",
+            "emotional/irascibil",
+            "lipsa de constiinciozitate"
+        ],
+        "hetero_stereotipuri_unguri": {
+            "religios": 45,
+            "bun_la_suflet": 41,
+            "primitor": 36,
+            "unit": 18,
+            "ipocrit": 16
+        },
+        "influente_istorice": {
+            "dacice": "spirit razboinic, vointa puternica, individualism, viclenie, rezilienta",
+            "romane": "inteligenta practica, spirit satiric, capacitate organizatorica, disciplina",
+            "slave": "adaptabilitate, sociabilitate, expresivitate emotionala, impulsivitate, superstitie"
+        },
+        "moderatori_contextuali": [
+            "Trauma istorica si dominatia straina → viclenie adaptiva, rezistenta indirecta",
+            "Divide rural-urban → diferentiale in traditionalism si deschidere la schimbare",
+            "Diversitate etnica → negociere identitara complexa",
+            "Integrare UE → aspiratii de modernizare + conservare culturala"
+        ],
+        "patern_psihologic_sinteza": "Sociabilitate si expresivitate ridicata echilibrate cu scepticism interpersonal. Inteligenta practica si adaptabilitate alaturi de improvizatie metodologica. Reactivitate emotionala puternica moderata de autocontrol situational. Observanta religioasa formala coexistand cu gandire magico-populara. Orientare colectiva cu rezistenta individualista simultana la autoritate.",
+        "implicatii_electorale": "Scepticismul institutional si neincrederea in straini pot reduce participarea la vot si increderea in partide. Expresivitatea emotionala face electoratul receptiv la mesaje polarizante. Adaptabilitatea explica volatilitatea electorala ridicata. Ospitalitatea si gregarismul faciliteaza mobilizarea comunitara dar complica targetarea individuala."
+    },
+    "person_categories": {
+        "presedintie": [
+            "Nicușor Dan"
+        ],
+        "guvern": [
+            "Ilie Bolojan",
+            "Marian Neacșu",
+            "Cătălin Predoiu",
+            "Tánczos Barna",
+            "Dragoș Anastasiu",
+            "Alexandru Nazare",
+            "Ciprian Șerban",
+            "Radu Marinescu",
+            "Florin Barbu",
+            "Bogdan Ivan",
+            "Alexandru Rogobete",
+            "Dragoș Pîslaru",
+            "Oana Țoiu",
+            "Florin Manole",
+            "Cseke Attila",
+            "Radu Miruță",
+            "Irineu Darău",
+            "Andras Demeter Istvan",
+            "Marilen Pirtea"
+        ],
+        "parlament": [
+            "Mircea Abrudean",
+            "Robert Cazanciuc",
+            "Paul Stănescu",
+            "Cătălin Drulă",
+            "Natalia Intotero"
+        ],
+        "lideri_coalitie": [
+            "Sorin Grindeanu",
+            "Ilie Bolojan",
+            "Dominic Fritz",
+            "Kelemen Hunor"
+        ],
+        "opozitie": [
+            "George Simion",
+            "Diana Șoșoacă",
+            "Călin Georgescu",
+            "Anamaria Gavrilă",
+            "Claudiu Târziu"
+        ],
+        "fosti_premieri": [
+            "Klaus Iohannis",
+            "Nicolae Ciucă",
+            "Ludovic Orban",
+            "Viorica Dăncilă",
+            "Mihai Tudose",
+            "Dacian Cioloș",
+            "Victor Ponta",
+            "Marcel Ciolacu"
+        ],
+        "primari": [
+            "Emil Boc",
+            "Ciprian Ciucu",
+            "Mihai Chirica",
+            "Vergil Chițac",
+            "Lia Olguța Vasilescu",
+            "Robert Negoiță",
+            "Daniel Băluță",
+            "Dominic Fritz"
+        ],
+        "europarlamentari": [
+            "Gabriela Firea",
+            "Victor Negrescu",
+            "Vasile Dîncu",
+            "Claudiu Manda",
+            "Siegfried Mureșan",
+            "Vlad Voiculescu",
+            "Dan Barna",
+            "Nicu Ștefănuță",
+            "Roxana Mînzatu",
+            "Eugen Tomac",
+            "Claudiu Târziu"
+        ],
+        "justitie_servicii": [
+            "Laura Codruța Kövesi",
+            "Marius Voineag",
+            "Simina Tănăsescu",
+            "Gabriel Vlase"
+        ],
+        "business_magnati": [
+            "Ion Țiriac",
+            "Dragoș Pavăl",
+            "Adrian Pavăl",
+            "Dan Voiculescu",
+            "Gigi Becali",
+            "Dorinel Umbrărescu",
+            "Daniel Dines",
+            "Ion Stoica",
+            "Matei Zaharia",
+            "Zoltan Teszări",
+            "Gruia Stoica",
+            "Dragoș Anastasiu"
+        ],
+        "business_ceo": [
+            "Christina Verchere",
+            "Răzvan Popescu",
+            "Bogdan-Nicolae Badea",
+            "Ion Sterian",
+            "Cosmin Ghiță",
+            "Ömer Tetik",
+            "Horia Ciorcilă",
+            "Maria Rousseva"
+        ],
+        "reglementatori": [
+            "Mugur Isărescu",
+            "Alexandru Petrescu",
+            "George Sergiu Niculescu",
+            "Bogdan Chirițoiu"
+        ],
+        "media": [
+            "Mihai Gâdea",
+            "Mircea Badea",
+            "Cosmin Prelipceanu",
+            "Andreea Esca",
+            "Victor Ciutacu",
+            "Anca Alexandrescu",
+            "Cătălin Tolontan",
+            "Paul Radu",
+            "Cristian Tudor Popescu",
+            "Dana Budeanu",
+            "Lucian Mîndruță",
+            "Adrian Sârbu",
+            "Sebastian Ghiță",
+            "Bobby Păunescu"
+        ],
+        "primari_bucuresti": [
+            "Ciprian Ciucu",
+            "George Cristian Tuță",
+            "Rareș Hopincă",
+            "Robert Negoiță",
+            "Daniel Băluță",
+            "Vlad Popescu Piedone",
+            "Stelian Bujduveanu"
+        ]
+    },
+    "official_markers": {
+        "institution_actions": [
+            "a decis să",
+            "a hotărât să",
+            "a adoptat",
+            "a aprobat",
+            "a respins",
+            "a promulgat",
+            "a decretat",
+            "a invalidat",
+            "a validat",
+            "a intrat în vigoare",
+            "a fost publicat în monitorul oficial",
+            "a emis",
+            "a anunțat oficial"
+        ],
+        "document_types": [
+            "comunicat oficial",
+            "comunicat de presă",
+            "hotărâre de guvern",
+            "HG",
+            "ordonanță de urgență",
+            "OUG",
+            "decizie CCR",
+            "monitorul oficial",
+            "decret prezidențial",
+            "lege promulgată"
+        ],
+        "institution_subject": [
+            "guvernul a decis",
+            "guvernul a aprobat",
+            "CCR a decis",
+            "parlamentul a votat",
+            "senatul a votat",
+            "președintele a semnat",
+            "președintele a promulgat",
+            "ministerul a anunțat",
+            "ANRE a aprobat",
+            "CSM a decis"
+        ],
+        "exclude_patterns": [
+            "critică",
+            "criticat",
+            "atacă",
+            "acuză",
+            "analiză",
+            "comentariu",
+            "opinie",
+            "editorial",
+            "reacție",
+            "cere",
+            "solicită",
+            "propune",
+            "se discută",
+            "în dezbatere",
+            "controversă",
+            "scandal"
+        ]
+    },
+    "entity_colors": {
+        "Președinție": "#1d4ed8",
+        "Societate": "#c02020",
+        "Guvern": "#0d9488",
+        "Justiție": "#7c3aed",
+        "Parlament": "#ea580c",
+        "Putere": "#0d0d0d",
+        "Opoziție": "#b91c1c",
+        "Local": "#4f46e5"
+    },
+    "topic_keywords": {
+        "ccr": [
+            "ccr",
+            "curtea constituțională",
+            "constituțional",
+            "neconstituțional"
+        ],
+        "magistrați": [
+            "magistrați",
+            "judecători",
+            "procurori"
+        ],
+        "dna_diicot": [
+            "dna",
+            "diicot",
+            "anticorupție",
+            "corupție"
+        ],
+        "buget": [
+            "buget",
+            "bugetar",
+            "deficit bugetar"
+        ],
+        "taxe": [
+            "taxe",
+            "impozite",
+            "fiscalitate",
+            "anaf"
+        ],
+        "apărare": [
+            "mapn",
+            "apărare",
+            "armată",
+            "militar"
+        ],
+        "nato": [
+            "nato",
+            "alianța nord-atlantică"
+        ],
+        "securitate": [
+            "sri",
+            "sie",
+            "servicii secrete"
+        ],
+        "sănătate": [
+            "sănătate",
+            "spital",
+            "cnas",
+            "medici"
+        ],
+        "educație": [
+            "educație",
+            "școală",
+            "profesori",
+            "învățământ"
+        ],
+        "energie": [
+            "energie",
+            "energetic",
+            "gaze",
+            "anre"
+        ],
+        "ue": [
+            "uniunea europeană",
+            "comisia europeană",
+            "bruxelles"
+        ],
+        "alegeri": [
+            "alegeri",
+            "vot",
+            "urne",
+            "campanie electorală"
+        ],
+        "proteste": [
+            "protest",
+            "proteste",
+            "manifestație",
+            "grevă"
+        ],
+        "restructurare": [
+            "restructurare",
+            "disponibilizări",
+            "concedieri"
+        ]
+    },
+    "government_members": [
+        "bolojan",
+        "predoiu",
+        "neacșu",
+        "tanczos",
+        "anastasiu",
+        "nazare",
+        "marinescu",
+        "șerban",
+        "rogobete",
+        "pîslaru",
+        "darău",
+        "pîrtea",
+        "toiu",
+        "manole",
+        "cseke",
+        "barbu",
+        "ivan",
+        "miruță",
+        "demeter"
+    ],
+    "economic_indicators": {
+        "sursa": "European Commission Autumn 2025 Forecast + OECD Economic Outlook Dec 2025 + IMF Oct 2025 + Trading Economics Mar 2026",
+        "gdp_growth": {
+            "2024": 0.9,
+            "2025_estimate": "0.7-1.3% (EC: 0.7, OECD: 1.3, IMF: 1.0)",
+            "2026_forecast": "1.0-1.4% (EC: 1.1, OECD: 1.0, IMF: 1.4)",
+            "2027_forecast": "2.0-2.2%",
+            "nota": "Crestere slaba din cauza consolidarii fiscale. Investitiile UE (PNRR) si exporturile sustin cresterea."
+        },
+        "inflatie": {
+            "2024_medie": 5.8,
+            "ianuarie_2026": 9.6,
+            "februarie_2026": 9.3,
+            "cauze_2025_2026": "Eliminare plafon gaze (martie 2026), crestere TVA (+2pp), accize mai mari, ETS2",
+            "tinta_bnr": "2.5% ±1pp",
+            "prognoza_revenire_tinta": "sfarsitul 2026 - inceputul 2027"
+        },
+        "somaj": {
+            "2024": 5.4,
+            "q2_2025": 6.3,
+            "2026_forecast": "5.6-6.5%",
+            "nota": "Crestere usoara din cauza austeritate, dar sectoare ca constructii/servicii raman cu cerere"
+        },
+        "deficit_bugetar": {
+            "2024": 9.3,
+            "2025_forecast": "7.5-8.4% PIB",
+            "2026_forecast": "6.0-6.4% PIB",
+            "nota": "Cel mai mare deficit din UE. Pachete de consolidare fiscala adoptate dec 2024 + iul 2025"
+        },
+        "datorie_publica": {
+            "2024": "55% PIB",
+            "2027_forecast": "63-75% PIB",
+            "nota": "In crestere rapida"
+        },
+        "masuri_austeritate_2025_2026": [
+            "Inghetare salarii si pensii publice 2025-2026",
+            "Crestere TVA cu 2 puncte procentuale (aug 2025)",
+            "Accize mai mari pe combustibili",
+            "Eliminare plafon pret gaze naturale (mar 2026)",
+            "Eliminare plafon pret electricitate (iul 2025)",
+            "Crestere impozit proprietati rezidentiale",
+            "Taxe de mediu majorate"
+        ],
+        "salariu_mediu_net": "5387 RON / ~1063 EUR (august 2025)",
+        "salariu_minim_brut": "4050 RON / ~814 EUR (din ianuarie 2025)",
+        "dobanda_referinta_bnr": "Mentinuta pana Q3 2026, apoi scadere spre 4% in 2027",
+        "expunere_tarife_sua": "Scazuta directa (2.5% exporturi bunuri), dar indirecta prin parteneri UE",
+        "convergenta_ue": "PIB per capita 78% din media UE in 2024 (de la 26% in 2000)",
+        "austeritate_2025_impact": {
+            "sursa": "Seldonic AI Opus / IMF / European Commission / ING macro",
+            "tva_crestere": "19% → 21%",
+            "impozit_dividende": "10% → 16%",
+            "taxa_banci": "windfall tax sector bancar",
+            "reducere_personal_public": "~20%",
+            "gospodarii_presiune": "45% abia fac fata cheltuielilor (+8.2pp vs primavara 2025)",
+            "consumer_confidence": "prabusit ianuarie 2026",
+            "coping": "branduri ieftine, promotii (25.7% FMCG), renuntare consum out-of-home",
+            "risc_electoral": "Masuri regresive — TVA loveste consumatorii saraci disproportionat"
+        },
+        "nota_deficit": "Deficit bugetar 2024: 9.3% PIB (cifra nationala) / 8.3% (European Commission ESA-adjusted). Cel mai mare din UE. Procedura de deficit excesiv activata."
+    },
+    "media_landscape": {
+        "sursa": "EurOMo 2025, Digital News Report 2025, Wikipedia Media in Romania",
+        "consum_surse_stiri": {
+            "televiziune": 79,
+            "social_media": 48,
+            "platforme_online_stiri": 47,
+            "radio": 33,
+            "platforme_video": 31,
+            "aplicatii_mesagerie": 20,
+            "print": 19,
+            "podcasturi": 12,
+            "bloguri": 8,
+            "nota": "TV domina toate grupele de varsta. Romania — cea mai mare rata de vizionare TV din Europa de Est (71.8% audienta zilnica)"
+        },
+        "digital_news_report_2025": {
+            "surse_online_stiri": 70,
+            "tv_stiri": 60,
+            "social_media_stiri": 46,
+            "nota": "Online a depasit TV-ul ca sursa de stiri (70% vs 60%)"
+        },
+        "internet_penetrare": 89,
+        "google_market_share": 96,
+        "site_uri_top": "Google, YouTube, Facebook",
+        "grupuri_media_principale": {
+            "intact_media_group": {
+                "proprietar": "Familie Dan Voiculescu",
+                "canale": [
+                    "Antena 1",
+                    "Antena 3 CNN",
+                    "Antena Stars",
+                    "Happy Channel"
+                ],
+                "orientare": "Pro-PSD traditional, populist",
+                "nota": "Critica frecventa pentru acoperire partinitoare"
+            },
+            "pro_tv_group": {
+                "proprietar": "PPF Group (Cehia, fondator Adrian Sarbu)",
+                "canale": [
+                    "Pro TV",
+                    "Acasa",
+                    "Pro Cinema",
+                    "Pro Arena"
+                ],
+                "orientare": "Comercial-mainstream, relativ echilibrat"
+            },
+            "digi_rcs_rds": {
+                "proprietar": "Zoltan Teszari",
+                "canale": [
+                    "Digi24",
+                    "Digi Sport",
+                    "Digi World",
+                    "Digi Animal World"
+                ],
+                "radio": "ProFM, DigiFM (79 licente radio)",
+                "altele": "Cel mai mare distribuitor ISP si cablu TV din Romania",
+                "orientare": "Pro-european, analitic"
+            },
+            "romania_tv": {
+                "proprietar": "Sebastian Ghita (fondator)",
+                "orientare": "Pro-PSD, nationalist, senzationalist",
+                "nota": "Sanctiuni frecvente CNA pt manipulare"
+            },
+            "realitatea_plus": {
+                "proprietar": "Diverse schimbari de proprietar",
+                "orientare": "Conservative, pro-suveranist"
+            },
+            "b1_tv": {
+                "proprietar": "Bobby Paunescu",
+                "orientare": "Conservative"
+            },
+            "tvr": {
+                "tip": "Serviciu public",
+                "canale": [
+                    "TVR1",
+                    "TVR2",
+                    "TVR3",
+                    "TVR International"
+                ],
+                "nota": "Independenta relativa, dar critica pt urmarirea naratiunii guvernamentale"
+            }
+        },
+        "investigatii_independente": {
+            "recorder_ro": "Video-jurnalism investigativ, credibilitate foarte ridicata",
+            "rise_project": "OCCRP, investigatii coruptie, credibilitate maxima",
+            "pressone_ro": "Jurnalism de calitate, independent",
+            "g4media_ro": "Analiza politica, centru-stanga",
+            "hotnews_ro": "Cel mai vechi portal de stiri, investigatii"
+        },
+        "provocari": [
+            "Finantare publica netransparenta catre media (40+ mil EUR in 2024 — publicitate politica)",
+            "Concentrare ridicata proprietate media",
+            "Sanctiuni CNA ineficiente",
+            "Alegerile prezidentiale 2024 anulate de CCR — rol media si social media in campanie",
+            "RSF Press Freedom Index: pozitia 42 (2013)"
+        ],
+        "reglementare": "CNA (Consiliul National Audiovizual) — licente TV/radio, monitorizare continut"
+    },
+    "demographic_context": {
+        "populatie": "~19 milioane (scadere constanta din cauza emigrarii)",
+        "emigratie": "~5 milioane romani in diaspora (Italia, Spania, UK, Germania, Franta)",
+        "urban_rural": "56% urban, 44% rural",
+        "varsta_mediana": "~43 ani (populatie imbatranita)",
+        "religie": "86% ortodox, 4.6% romano-catolic, 3% reformat, 1.5% penticostal",
+        "minoritati": {
+            "unguri": "6.1% (~1.2 mil, concentrati in Harghita, Covasna, Mures)",
+            "roma": "3.3% oficial (~620k), estimari neoficiale 1.5-2.5 mil",
+            "germani": "0.2%",
+            "ucraineni": "0.2%"
+        },
+        "votanti_diaspora": "~1.6M votanti activi (T2 mai 2025). Diaspora s-a fragmentat politic: in T1 Simion 60%+, in T2 Simion 55.86%. Nu mai e monolitic pro-reformista ca in 2019-2020.",
+        "clivaje_electorale": [
+            "Urban vs rural (urban=reformist/pro-UE, rural=conservator/PSD)",
+            "Varsta (tineri=USR/AUR, varstnici=PSD/PNL)",
+            "Educatie (studii superioare=USR/PNL, studii medii=PSD/AUR)",
+            "Diaspora vs tara (diaspora=anti-sistem, pro-schimbare)",
+            "Transilvania vs Muntenia/Moldova (Ardeal=PNL/UDMR, Muntenia=PSD)"
+        ],
+        "populatie_nota": "Eurostat Demography 2025: -2.5M locuitori 2004-2024 (11% scadere), cea mai mare scadere absoluta din UE. 3.1M cetateni romani in alte tari UE (22% din toti mobili intra-UE)."
+    },
+    "political_dynamics_march_2026": {
+        "coalitie_tensiuni": [
+            "PSD nemultumit de austeritatea Bolojan — au promis cresteri pensii, acum sunt inghetate. Baza PSD poate migra spre AUR pe anti-austeritate.",
+            "USR la guvernare cu PSD — tensiune identitara profunda pt baza electorala reformista. Compromis perceput ca tradare.",
+            "UDMR pragmatic — obtine concesii pt comunitate, evita conflicte. Broker de coalitie stabil.",
+            "Dragos Anastasiu (vicepremier reforma) — fara partid, vulnerabil politic dar simbol al technocratiéi.",
+            "Riscul 'bucla feedback economic-autoritar': austeritate → nemultumire → vot extremist → instabilitate → mai multa austeritate."
+        ],
+        "opozitie_dinamica": [
+            "AUR (Simion) — capitalizare pe nemultumirea economica si anti-austeritate",
+            "SOS (Sosoaca) — conspirationism, anti-NATO/UE, baza mica dar vocala",
+            "POT (Gavrila) — pro-Georgescu, suveranist digital, baza TikTok",
+            "Calin Georgescu — fara functie oficiala, dar figura polarizanta, simbol anti-sistem"
+        ],
+        "teme_fierbinti": [
+            "Austeritatea Bolojan — TVA 21%, pensii inghetate, 45% gospodarii sub presiune. Cel mai puternic predictor de vot: venitul real disponibil.",
+            "Consolidare fiscala — deficit 9.3% PIB → tinta 8.4% (2025). Masuri regresive: TVA loveste saracii mai mult.",
+            "Mostenitrea crizei 2024 — societate fracturata. AUR narativ 'alegerile furate'. Trust institutional scazut.",
+            "Dezinformare/TikTok — lectia 2024 nerezolvata. Operatiuni informationale rusesti continue.",
+            "Neptun Deep + aparare — narativa independentei energetice vs cheltuieli militare 2% PIB.",
+            "Fonduri UE ~€60 mld — obiect politic: patronaj, conditionare, presiune reforma.",
+            "Aderare OECD — semnal de credibilitate, conditionat de reforme structurale.",
+            "Proteste sindicale — capacitate demonstrata nov 2025. Healthcare/educatie/sector public.",
+            "Diaspora ~20% populatie — contra-balans electoral (pro-UE) dar si segment AUR vocal."
+        ],
+        "riscuri": [
+            "Inflatie 6-10% erodeaza increderea in coalitie — 45% gospodarii deja sub presiune.",
+            "Pragul mioritic: punct de ruptura unde frustrarile acumulate erupe in mobilizare exploziva (cf. 1989, 2017, 2024).",
+            "AUR la 19% + SOS 7% + POT 5% = bloc suveranist ~31%. Daca AUR ajunge la 35%, alternative de guvernare devin urgente.",
+            "Dezinformare via TikTok/Telegram — infrastructura de manipulare demonstrata functional in 2024.",
+            "Emigrare continua — pierdere forta de munca si baza fiscala.",
+            "Populism anti-UE creste daca austeritatea dureaza si fondurile UE nu sunt vizibile pt cetateni."
+        ]
+    },
+    "electoral_behavior": {
+        "participare_vot": {
+            "prezidentiale_2024_t1": "~52% (anulate de CCR)",
+            "parlamentare_2024": "~33%",
+            "locale_2024": "~46%",
+            "europarlamentare_2024": "~52%",
+            "tendinta": "Participare scazuta la parlamentare, mai ridicata la prezidentiale si europarlamentare",
+            "prezidentiale_2025_t1": "53.21%",
+            "prezidentiale_2025_t2": "64.72% (record din 1996)"
+        },
+        "volatilitate": "Foarte ridicata — schimbari majore de la un ciclu la altul. PSD dominant in rural dar fluctuatii in urban. Continuitate puternica din ere pre-moderne si comuniste in atitudini si institutii (evidenta academica 10/10). Identitatea politica nu e statica — e cleavage activat periodic prin evenimente. Tratati alegerile ca ferestre temporale, nu timestamps unice. Post-electoral: 'legitimacy aftershocks'.",
+        "factori_vot": [
+            "Venitul real disponibil — cel mai puternic predictor (confirmat academic 10/10).",
+            "Incredere/neincredere in sistem — post-2024 la nivel record de jos.",
+            "Identitate culturala: europeana vs suveranista (clivaj principal dupa 2024).",
+            "Influenta TV (80%) si social media (TikTok pt tineri, Facebook pt 30+).",
+            "Personalitatea candidatilor (mai importanta decat programul).",
+            "Nostalgia comunista — variabila dinamica, creste cand guvernarea esueaza.",
+            "Patronaj local PSD — retele de dependenta institutionala in rural.",
+            "Activarea cleavage-urilor: urban-rural, generational, valoric — nu sunt statice, se activeaza periodic."
+        ],
+        "prezidentiale_2025": {
+            "tur_1_prezenta": "53.21%",
+            "tur_2_prezenta": "64.72% (cea mai mare din 1996, +11.53pp fata de T1)",
+            "observatie_cheie": "Mobilizarea masiva T1→T2 (+1.4M in tara, +672K diaspora) a fost factorul decisiv. Dan a beneficiat de coalitia anti-Simion — nu de un electorat propriu omogen."
+        }
+    },
+    "predictive_context": {
+        "sursa": "Seldonic AI Comprehensive Context Framework, March 2026",
+        "key_predictors": [
+            "Venitul real disponibil (cel mai puternic predictor de vot)",
+            "Pragul mioritic — punct de ruptura acumulare frustrari → mobilizare exploziva",
+            "Bucla feedback economic-autoritar: austeritate → nemultumire → vot extremist → instabilitate",
+            "Coeficientul de disruptie algoritmica: patronajul traditional PSD vs mobilizarea TikTok AUR",
+            "Contra-balansul diaspora: ~20% populatie, pro-UE dar si segment AUR vocal",
+            "Ancorele cultural-institutionale: BOR pozitie unica — 72% incredere, arbitru moral",
+            "Nostalgia comunista ca variabila dinamica — creste cand guvernarea esueaza, nu e trasatura fixa"
+        ],
+        "monitor_variables": [
+            "Traiectoria venitului real disponibil",
+            "Rezolutia bugetara (deadlock prelungit = narativ 'guvern esuat')",
+            "Escaladare Orientul Mijlociu (impact pret combustibil)",
+            "Progres Neptun Deep (narativa independentei energetice)",
+            "Completare aderare OECD (semnal credibilitate)",
+            "Potentialul de coalitie AUR (daca 35% se mentine, alternativele de guvernare devin urgente)",
+            "Proteste sindicale — frecventa si dimensiune"
+        ],
+        "cultural_matrices": {
+            "spatiul_mioritic": "Blaga: alternanta concentrare intensa / retragere fatalista. Explica apatie politica lunga + mobilizari explozive.",
+            "mitul_manole": "Sacrificiul creator: electorate accepta austeritate DACA percepe beneficiu. Contractul se rupe cand elitele beneficiaza vizibil.",
+            "traian_dochia": "Tensiune intre integrare vestica (aspectul roman) si suveranism indigen (aspectul dacic).",
+            "miorita": "Solidaritate om-natura-destin — rezilienta ontologica, nu pasivitate. Dar si fatalism in fata autoritatii."
+        }
+    },
+    "bucharest_institutions": {
+        "PMB": "Primăria Municipiului București — primar general Ciprian Ciucu (PNL)",
+        "CGMB": "Consiliul General al Municipiului București — organ deliberativ, 55 consilieri",
+        "PS1": "Primăria Sectorului 1 — primar George Cristian Tuță (PNL-PSD)",
+        "PS2": "Primăria Sectorului 2 — primar Rareș Hopincă (PSD)",
+        "PS3": "Primăria Sectorului 3 — primar Robert Negoiță (PSD)",
+        "PS4": "Primăria Sectorului 4 — primar Daniel Băluță (PSD)",
+        "PS5": "Primăria Sectorului 5 — primar Vlad Popescu Piedone",
+        "PS6": "Primăria Sectorului 6 — post vacant după plecarea lui Ciucu (dec 2025), primar interimar",
+        "STB": "Societatea de Transport București — în subordinea CGMB",
+        "Termoenergetica": "Furnizare agent termic București — probleme cronice",
+        "Metrorex": "Operatorul metroului din București — subordine Ministerul Transporturilor",
+        "ALPAB": "Administrația Lacuri, Parcuri și Agrement București — în curs de reorganizare (Ciucu 2026)",
+        "ISU": "Inspectoratul pentru Situații de Urgență București-Ilfov",
+        "ANAF_Buc": "Administrația Fiscală regională București",
+        "Parcul_Vacaresti": "Parcul Natural Văcărești — singurul parc natural urban din România"
+    },
+    "prezidentiale_2025": {
+        "sursa": "BEC rezultate finale + INSCOP sondaj ziua votului (4,454 resp, ±2%, CATI)",
+        "tur_1": {
+            "data": "4 mai 2025",
+            "prezenta": "53.21%",
+            "rezultate": {
+                "George Simion (AUR)": 40.96,
+                "Nicușor Dan (independent)": 20.99,
+                "Crin Antonescu (PSD-PNL-UDMR)": 20.07,
+                "Victor Ponta": 8.55,
+                "Elena Lasconi (USR)": 2.68
+            },
+            "profil_votanti_tur1_inscop": {
+                "nota": "INSCOP ziua votului, 4 mai 2025, 4,490 resp (2,455 voturi), ±2%, teritoriul RO fara diaspora",
+                "simion": "Votat de mai multi barbati decat femei, preponderent 30-44 ani, semnificativ mai multi cu studii primare decat superioare",
+                "dan": "Votat egal barbati/femei, semnificativ mai multi tineri 18-29, mult mai multi cu studii superioare",
+                "observatie": "Simion a obtinut mai multe voturi decat Dan pe TOATE categoriile, cu exceptia tinerilor 18-29 si a votantilor cu studii superioare"
+            }
+        },
+        "tur_2": {
+            "data": "18 mai 2025",
+            "prezenta": "64.72% (cea mai mare din 1996)",
+            "votanti_total": 11641544,
+            "votanti_tara": "~10 milioane (+1.4M fata de T1)",
+            "votanti_diaspora": 1645000,
+            "votanti_diaspora_t1": 973000,
+            "rezultate_bec": {
+                "Nicușor Dan": {
+                    "procent": 53.6,
+                    "voturi": 6168642
+                },
+                "George Simion": {
+                    "procent": 46.4,
+                    "voturi": 5339053
+                }
+            },
+            "profil_votanti_tur2_inscop": {
+                "sursa": "INSCOP Research, sondaj ziua votului 18 mai 2025, publicat 20 mai de Remus Stefureac",
+                "esantion": "4,454 respondenți, ±2%, CATI, teritoriul RO fara diaspora",
+                "varsta": {
+                    "18-24": {
+                        "dan": 70.2,
+                        "simion": 29.8,
+                        "nota": "Cea mai puternica majoritate Dan"
+                    },
+                    "25-34": {
+                        "dan": "<50",
+                        "simion": ">50",
+                        "nota": "Simion conduce"
+                    },
+                    "35-44": {
+                        "dan": "<50",
+                        "simion": ">50",
+                        "nota": "Simion conduce — cel mai puternic segment Simion"
+                    },
+                    "45-54": {
+                        "dan": ">50",
+                        "simion": "<50",
+                        "nota": "Dan conduce"
+                    },
+                    "55-64": {
+                        "dan": ">50",
+                        "simion": "<50",
+                        "nota": "Dan conduce"
+                    },
+                    "65+": {
+                        "dan": 64,
+                        "simion": 36,
+                        "nota": "A doua cea mai puternica majoritate Dan"
+                    }
+                },
+                "gen": {
+                    "femei": {
+                        "dan": 58.2,
+                        "simion": 41.8
+                    },
+                    "barbati": {
+                        "dan": 53.2,
+                        "simion": 46.8
+                    }
+                },
+                "educatie": {
+                    "studii_superioare": {
+                        "dan": 81.6,
+                        "simion": 18.1
+                    },
+                    "studii_primare": {
+                        "dan": 30,
+                        "simion": 70,
+                        "nota": "Aproximativ — cea mai slaba categorie Dan"
+                    }
+                },
+                "combinatii_extreme": {
+                    "cel_mai_puternic_dan": "35-44 cu studii superioare: 84.8% Dan",
+                    "cel_mai_slab_dan": "35-44 cu studii primare: 10.1% Dan, 89.9% Simion"
+                },
+                "citat_stefureac": "Realitatea sociala este mult mai complexa si nuantata. Majoritatea alegatorilor cu studii superioare au votat cu Dan, dar exista un numar deloc de neglijat cu studii superioare care l-au ales pe Simion. O majoritate a celor cu studii primare au votat cu Simion, dar exista un numar foarte mare de alegatori cu studii primare care l-au ales pe Dan."
+            },
+            "mandatul_heterogen": {
+                "nota": "Doar ~36% din votantii lui Dan din T2 provin din T1 (Dan a obtinut ~2.4M voturi in T1, ~6.2M in T2). Restul de ~63% au venit in tabara Dan din alte surse.",
+                "transfer_voturi_verificat": {
+                    "sursa": "Verifield pre-tur2 + CURS exit poll (citat IntechOpen)",
+                    "antonescu_spre_dan": "majoritate covarsitoare (~80%+)",
+                    "lasconi_spre_dan": "majoritate covarsitoare (~80%+)",
+                    "ponta_spre_dan": "majoritate dar mai scazuta (~60%)"
+                },
+                "implicatie_seldonic": "Presedintele Dan nu are un electorat omogen. Coalitia sa electorala include: tineri pro-UE urbani (18-24, 70% Dan), varstnici PSD (65+, 64% Dan — bazin traditional PSD), clase medii educate, si votanti anti-Simion fara afinitate ideologica cu Dan. Pretentia oricarui grup de a avea monopolul asupra actiunii politice a presedintelui este structural nefundata."
+            },
+            "diaspora_tur2": {
+                "simion_diaspora": 55.86,
+                "dan_diaspora": 44.14,
+                "nota": "Simion a castigat diaspora in T2 dar cu marja mult mai mica decat in T1 (60%+). Mobilizarea masiva diaspora (+672K fata de T1) a beneficiat preponderent pe Dan."
+            },
+            "rezultate_geografice": {
+                "bucuresti_dan": 77.8,
+                "rural_dan": "~38%",
+                "moldova_rd_dan": "~88% (Rep. Moldova)"
+            }
+        }
+    },
+    "inscop_funky_citizens_jan_2025": {
+        "sursa": "INSCOP Research la comanda Funky Citizens, fieldwork 16-23 dec 2024",
+        "esantion": "1,000 respondenti, CATI, ±3.1%, 95% CI",
+        "nota": "Studiu comparativ 2021/2022 vs 2024 — cea mai documentata sursa publica pt perioada 2024-2025",
+        "intentie_vot_nationalist": {
+            "ar_vota_partid_nationalist": {
+                "dec_2024": 69.1,
+                "ian_2022": 65.7,
+                "delta": "+3.4pp"
+            },
+            "ar_mentine_si_daca_ro_exit": {
+                "dec_2024": 23,
+                "ian_2022": 26,
+                "delta": "-3.0pp",
+                "nota": "Hard core nationalist — plafon mobilizare extrema, ~23% din total esantion"
+            },
+            "ar_mentine_daca_nationalizare": {
+                "dec_2024": 25.9
+            }
+        },
+        "incredere_institutionala": {
+            "NATO": {
+                "dec_2024": 69.7,
+                "ian_2022": 60.6,
+                "delta": "+9.1pp"
+            },
+            "UE": {
+                "dec_2024": 66.8,
+                "ian_2022": 55.9,
+                "delta": "+10.9pp"
+            },
+            "SUA": {
+                "dec_2024": 59.1,
+                "ian_2022": 50,
+                "delta": "+9.1pp"
+            },
+            "Rusia": {
+                "dec_2024": 5.9,
+                "ian_2022": 18,
+                "delta": "-12.1pp"
+            }
+        },
+        "orientare_geopolitica": {
+            "directia_vest": {
+                "dec_2024": 87.5,
+                "ian_2022": 77
+            },
+            "directia_est": {
+                "dec_2024": 4.1,
+                "ian_2022": 10.4
+            },
+            "ue_avantaje": {
+                "dec_2024": 72.5,
+                "ian_2022": 54.9
+            },
+            "impotriva_ro_exit": {
+                "dec_2024": 88.1,
+                "ian_2022": 71.7
+            },
+            "impotriva_iesire_nato": {
+                "dec_2024": 88.1,
+                "ian_2022": 76.2
+            },
+            "sua_ue_influenta_pozitiva": {
+                "dec_2024": 80.4,
+                "sep_2021": 61.8
+            },
+            "rusia_china_influenta_pozitiva": {
+                "dec_2024": 9,
+                "sep_2021": 16.5
+            }
+        },
+        "nationalism_vs_ue": {
+            "interes_national_prioritar_fata_de_ue": {
+                "dec_2024": 57.1,
+                "ian_2022": 68.4,
+                "nota": "Scadere semnificativa — mai multi accepta regulile UE"
+            },
+            "respecta_regulile_ue": {
+                "dec_2024": 36.3,
+                "ian_2022": 29.4
+            }
+        },
+        "dezinformare": {
+            "expunere_fake_news_ridicata": {
+                "dec_2024": 54.4,
+                "ian_2022": 54.7,
+                "nota": "Stabil — expunerea nu scade"
+            },
+            "politicieni_actioneaza_pt_alte_tari": {
+                "dec_2024": 54,
+                "ian_2022": 63.9
+            },
+            "economie_controlata_de_straini": {
+                "dec_2024": 61.8,
+                "ian_2022": 77.5
+            }
+        },
+        "implicatii_seldonic": [
+            "Paradoxul nationalist-pro-UE: 69% ar vota nationalist, 88% impotriva Ro-Exit. Doar 23% hard core. Loialitatea nationalista e CONDITIONALA.",
+            "Inversarea increderii: UE/NATO acum DEPASESC increderea in guvern/parlament. Votantii pot sustine candidati nationalisti mentinand angajamente institutionale UE.",
+            "Russia trust collapse: 5.9% — cel mai scazut nivel masurat. Consolidare pro-vestica post-2022.",
+            "Dezinformarea ramane stabila la ~54% expunere ridicata — rezilienta nu creste in ciuda constientizarii."
+        ]
+    },
+    "polling_quality": {
+        "sursa": "IntechOpen academic synthesis (Armeanu, Oct 2025) + verificare directa",
+        "ierarhie": {
+            "tier_1_gold": [
+                "INSCOP Research (cel mai mic error rate pre-electoral: 14%)",
+                "Eurobarometer"
+            ],
+            "tier_2_academic": [
+                "BCS Barometrul Politic National",
+                "IntechOpen sinteza academica",
+                "Sciences Po CEVIPOF"
+            ],
+            "tier_3_media": [
+                "Sociopol",
+                "Verifield",
+                "AtlasIntel",
+                "INSOMAR",
+                "CURS"
+            ],
+            "tier_4_agregatori": [
+                "Europe Elects",
+                "PolitPro"
+            ]
+        },
+        "esecul_nov_2024": {
+            "nota": "Niciun sondaj publicat nu a anticipat primul loc al lui Georgescu (22.94% real vs <5% in sondaje). Cauze: emergenta tarzie in afara structurilor de partid, mobilizare TikTok invizibila pt CATI, social desirability bias pt preferinte anti-sistem.",
+            "implicatie_seldonic": "Sondajele standard CATI subreprezinta sistematic electoratul mobilizat digital (TikTok-first, neincrezator in institutii inclusiv institutele de sondare). Modelele predictive trebuie sa includa indicatori de mobilizare digitala ca variabile complementare."
+        }
+    },
+    "government_crisis_may_2026": {
+        "trigger": "Pilot de restructurare a 22 companii de stat (memo Bolojan, aprilie 2026) — atac direct la retelele de patronaj PSD in intreprinderile de stat si administratia locala.",
+        "event": "5 mai 2026: motiune comuna de cenzura PSD + AUR (281 voturi din 464 in Parlament). Guvernul Bolojan demis dupa 10 luni.",
+        "context": "PSD sustinuse coalitia 2025-2026 pentru a securiza ~10 mld EUR fonduri PNRR inaintea deadline-ului august 2026, dar a rupt-o cand austeritatea a lovit baza electorala (concedieri 20% personal public, inghetare salarii/pensii, TVA +2pp, taxa pe dividende 10->16%, impozitare crypto, contributie 10% sanatate pe pensii >3000 RON).",
+        "consequences": [
+            "Romania in paralizie executiva, fara cabinet functional",
+            "Risc de pierdere a transelor PNRR ramase (~10 mld EUR)",
+            "Risc de retrogradare credit rating (S&P BBB- Negative Outlook mentinut aprilie 2026)",
+            "Procedura de deficit excesiv UE continua (deficit 2025: 7.9-8.4% PIB)",
+            "Familia europeana social-democrata alarmata de colaborarea PSD-AUR — risc de izolare europeana PSD"
+        ],
+        "interpretation": "Triumful pe termen scurt al supravietuirii politice asupra reformei structurale. Retelele clientelare ale partidelor mainstream sunt incompatibile cu cadrul fiscal UE; AUR profita ca beneficiar al ambelor — ataca austeritatea fara sa o fi suportat, ataca elita fara sa o fi compromis prin guvernare."
+    },
+    "macro_2025_2026": {
+        "gdp_growth_real": {
+            "2024_actual": 0.9,
+            "2025_actual_or_estimate": 0.7,
+            "2026_forecast_ec": 1.1,
+            "2026_forecast_state_budget": 1,
+            "2026_forecast_independent": "0.3-0.6%",
+            "2027_forecast_consensus": "2.0-2.5%",
+            "note": "RO sub media UE27 (1.4-1.5% in 2025), foarte sub Polonia (2.9%) si Cehia (1.8%). Recesiune tehnica in trim. 2-3 2025 (contractie 1.9% QoQ T4 2025, cea mai severa post-pandemie). Retail sales -3.7% MoM ianuarie 2026, cel mai slab inceput de an din 2010."
+        },
+        "inflation_hicp": {
+            "2024": 5.8,
+            "2025_avg": 6.7,
+            "2025_q3_peak_september": 8.6,
+            "2026_march_cpi_national": 9,
+            "2026_march_cpi_national_alt_source": 9.9,
+            "2026_ec_forecast": 5.9,
+            "2026_imf_forecast": 7.8,
+            "2026_sp_forecast": 7.25,
+            "eu_avg_march_2026": 2.6,
+            "comparator_diff_pp": "+6 to +7 puncte peste EU in martie 2026",
+            "drivers": [
+                "Liberalizare preturi electricitate iulie 2025",
+                "TVA 19->21% iulie 2025",
+                "Excise crescute",
+                "Liberalizare preturi gaze planificata martie 2026 (presiune aditionala)",
+                "ETS2 (cladiri + transport) potential 2027"
+            ]
+        },
+        "fiscal": {
+            "deficit_2024_pct_gdp": 9.3,
+            "deficit_2025_estimate": "7.9-8.4%",
+            "deficit_2026_forecast": "6.2-6.5%",
+            "deficit_2027_forecast": 5.9,
+            "eu_reference_value": 3,
+            "public_debt_2024": 54.8,
+            "public_debt_2025": 59,
+            "public_debt_2026_forecast": 61,
+            "public_debt_2027_forecast": 63,
+            "euro_area_debt_2025": 87.8,
+            "edp_status": "Romania ramane sub procedura de deficit excesiv UE. Cel mai mare deficit din UE in 2025."
+        },
+        "monetary": {
+            "nbr_policy_rate_2025_2026": 6.5,
+            "rate_cut_expectations": "Prima reducere asteptata mai 2026, cumulativ -100bp prin sfarsit 2026 daca inflatia cedeaza.",
+            "note": "BNR mentine una dintre cele mai inalte dobanzi din UE — dilema: inflatia 2025-2026 e supply-side (energie+TVA), nereactiva la dobanda, dar tightening mentinut pentru a ancora asteptarile."
+        },
+        "labor": {
+            "unemployment_2024": 5.4,
+            "unemployment_2025": 6.1,
+            "unemployment_2026_forecast": "5.8-6.0%",
+            "avg_gross_wage_eur_2025": 1745,
+            "ratio_to_eu_avg": "~1/3 din media UE",
+            "trends": "Inghetare salarii si pensii sector public 2025-2026. Salarii reale negative. Manufacturing -25.000 locuri YoY. Inflow muncitori straini continuat."
+        },
+        "fiscal_consolidation_2025_package": {
+            "size_pct_gdp_by_2026": 5,
+            "revenue_measures": [
+                "TVA 19% -> 21% (standard)",
+                "TVA reduse unificate 11%",
+                "Dividende 10% -> 16%",
+                "Excise crescute",
+                "Contributie sanatate 10% pe pensii >3000 RON/luna",
+                "Taxa suplimentara banci",
+                "Impozitare crypto",
+                "Proprietate — taxe recurente crescute"
+            ],
+            "expenditure_measures": [
+                "Inghetare salarii sector public 2025-2026",
+                "Inghetare pensii 2025-2026",
+                "Reducere ~20% personal public",
+                "Cut investitii publice 0.5% PIB",
+                "Pilot restructurare 22 companii stat (memoul care a doborat guvernul)"
+            ],
+            "political_cost": "Atac direct la baza PSD (rural, pensionari, sector public). Bolojan fortat sa co-execute pachetul -> coalitia se autodistruge pe 5 mai 2026."
+        }
+    },
+    "trump_factor_2025_2026": {
+        "summary": "Romania este exceptia UE — singura tara membru cu net favorabilitate pozitiva pentru Trump. Reflecta dependenta strategica NATO/SUA si afinitati culturale (votanti conservatori).",
+        "gallup_oct_dec_2025": {
+            "romania_net_favorability": "+10%",
+            "comparison": "Singurul stat UE cu favorabilitate neta pozitiva. Denmark -84%, Sweden -80%, Norway -79%.",
+            "scope": "Sondaj in 61 tari"
+        },
+        "ecfr_may_2025": {
+            "romania_trump_good_for_world_peace": 41,
+            "next_most_supportive_hungary": 33,
+            "western_europe_range": "21-23% (FR, DE, IT)",
+            "romania_trump_good_for_romania": 42,
+            "hungary_equivalent": 29,
+            "poland_equivalent": 25,
+            "temporal_trend": "Pesimism in crestere intre nov 2024 si mai 2025, dar de la o baza inalta in RO."
+        },
+        "ires_jan_2025": {
+            "trump_good_for_romania": 64,
+            "trump_good_for_us_citizens": 70,
+            "trump_good_for_world_peace": 62
+        },
+        "inscop_march_2026_eu_us_balance": {
+            "balance_both": 50.4,
+            "align_eu_only": 22.7,
+            "strengthen_us_only": 22.1,
+            "ns_nr": 4.9,
+            "demographic": "Balansul = PSD/PNL mainstream, varstnici, educati, sector public. US prioritar = AUR, rural, barbati."
+        },
+        "peace_council_visit_approval": {
+            "approve": 57.8,
+            "disapprove": 32.7,
+            "context": "Decizia Dan de a participa la primul Board of Peace Trump."
+        },
+        "strategic_context": "Romania frontline NATO — capacitate proprie limitata + amintirea amenintarii ruse -> valoare ridicata pe garantia SUA -> toleranta pentru retorica Trump in schimbul angajamentului concret (extindere baza Kogalniceanu 2.5 mld EUR, sisteme aparare Elbit/Israel)."
+    },
+    "ukraine_attitudes_2025_2026": {
+        "source_primary": "INSCOP Research februarie 2026 (comandat de New Strategy Center)",
+        "trajectory_blame_for_war": {
+            "russia_to_blame": {
+                "may_2022": 71.2,
+                "feb_2026": 54.9,
+                "delta_pp": -16.3
+            },
+            "ukraine_to_blame": {
+                "may_2022": 4.5,
+                "feb_2026": 14.1,
+                "delta_pp": "+9.6, aproape triplat"
+            },
+            "eu_to_blame": {
+                "may_2022": 1.7,
+                "feb_2026": 9
+            },
+            "us_to_blame": {
+                "feb_2026": 7.7
+            }
+        },
+        "desired_outcome": {
+            "unconditional_russian_withdrawal": {
+                "nov_2023": 64.7,
+                "feb_2026": 53.3,
+                "delta_pp": -11.4
+            },
+            "ukraine_concede_territory": {
+                "nov_2023": 24.5,
+                "feb_2026": 35.4,
+                "delta_pp": "+10.9"
+            }
+        },
+        "support_for_aid_to_ukraine": {
+            "no_aid_at_all": 42.6,
+            "humanitarian": 31.5,
+            "financial": 12.2,
+            "military": 10.5,
+            "interpretation": "Pluralitate (42.6%) impotriva oricarui ajutor. Doar 10.5% pro-ajutor militar (vs media UE 59%) — gap de 48.5pp."
+        },
+        "war_outcome_expectations_ires_jan_2025": {
+            "negotiated_settlement": 86,
+            "russia_wins": 8,
+            "ukraine_complete_victory": 5,
+            "note": "Pluralitatea asteapta compromis teritorial — substrat pentru receptivitate la initiative Trump de pace rapida, chiar cu concesii ucrainene."
+        },
+        "russia_perception_ires_jan_2025": {
+            "adversary": 38,
+            "rival": 13,
+            "necessary_partner": 32,
+            "ally": 7,
+            "note": "39% combined partener/aliat — minoritar dar substantial. Probabil corelat cu votanti AUR, 60+, mediu rural."
+        },
+        "strategic_concern": "Scutaru (CEO NSC): esec catastrofal al comunicarii de stat. Public nu intelege ca daca frontul ucrainean cade, RO are granita directa cu Federatia Rusa pe Dunare si Prut."
+    },
+    "great_power_outlook_2025_2026": {
+        "china_will_surpass_us_in_20_years": {
+            "ires_jan_2025_total": 75,
+            "very_likely": 25,
+            "probable": 50,
+            "interpretation": "Recunoastere a tranzitiei globale — nu neaparat aprobare, dar deschidere catre pragmatism multi-vector."
+        },
+        "eu_global_role_capability": {
+            "eu_can_engage_equal_with_superpowers": 60,
+            "disagree": 36,
+            "eu_will_maintain_or_grow_influence_10yr": 53,
+            "eu_will_decline": 29,
+            "eu_lacks_and_will_lack_influence": 15
+        }
+    },
+    "electoral_demographics_2026": {
+        "aur_voter_profile": "18-44 ani, educatie medie, mic-urban + rural + diaspora. TikTok-nativ. Angajament moral absolut + respingere institutii. Energizat post-anularea Georgescu (sentiment sistem rupt). Furie pe coalitia PSD-PNL. Pro-US prioritar (nu doar pro-Trump — Trump = simbol de lider puternic anti-establishment).",
+        "psd_voter_profile": "60+, rural/mic urban, educatie medie-jos. Dependent pensii / salarii bugetare. Loialitate institutionala + conservatorism social pasiv + anxietate economica. Trauma austeritatii Bolojan = ruptura de contract politic.",
+        "pnl_voter_profile": "45-59 urban, studii superioare, sector privat. Pragmatic, pro-european instrumental. Accepta disciplina fiscala dar ingrijorat de costul electoral.",
+        "usr_voter_profile": "25-40, urban major, sector cunoastere/ONG. Reformist. Erodeaza intre PNL-disciplina si AUR-anti-sistem.",
+        "udmr_voter_profile": "Etnic maghiar (85-95% din baza), concentrare Harghita-Covasna-Mures. Pragmatic, pro-coalitie, vot stabil.",
+        "sos_voter_profile": "Radicalizat, anti-sistem total, conspirationist. Comprimat la 1-3% dupa ce AUR a absorbit baza nationalist-populista.",
+        "diaspora": "Radicalizata pro-Georgescu si AUR. Concentrare voturi la mat. crit. in Italia, Spania, Germania, UK."
+    },
+    "national_psychology": {
+        "note": "Strat de psihologie politica profunda. 'Caracterul national' este teren de disputa intelectuala, nu doctrina — a se folosi ca lentile multiple, nu ca esenta fixa. Bloc structurat: pastrat de regenerarea zilnica a contextului.",
+        "intellectual_schools": {
+            "boia": "Lucian Boia — deconstructia mitului national. Continuitatea daco-romana, '2000 de ani de unitate', insula latina, victima eterna sunt constructii de secol 19, reactivabile politic. Invocarea lor = semnal de mobilizare identitara, nu argument istoric. Istoria conditioneaza, nu absolva.",
+            "antohi": "Sorin Antohi — bovarism geo-cultural (fuga orizontala spre un Vest idealizat) vs ontologie etnica (fuga verticala in adancime mitologizata: sol, ortodoxie, daci). Pendul predictibil: umilinta bovarica alimenteaza valul ontologic-etnic. Suveranismul 2024 = reactivare a ontologiei etnice dupa ~30 ani de faza bovarica.",
+            "mungiu_pippidi": "Alina Mungiu-Pippidi — particularism. Coruptia nu e abatere de la o norma universala ci regimul de guvernare implicit: domnia retelelor patron-client peste universalismul etic. Post-89 = particularism competitiv. Votantii asteapta si recompenseaza particularismul; anti-coruptia ataca echilibrul, nu o deviatie.",
+            "tismaneanu": "Vladimir Tismaneanu — 'stalinism national': fuziune intre metode staliniste si legitimare nationalista sub Ceausescu. Insista pe continuitatile leniniste de personal intre nomenklatura comunista si FSN/PSD post-1989.",
+            "barbu": "Daniel Barbu — 'republica absenta': forme constitutionale din 1866 si multipartidism din 1990, dar fara cultura politica republicana — niciun proiect civic comun; sub forme democratice persista un stat privatizat, clientelar.",
+            "humanitas_gds_si_critica": "Blocul liberal-conservator (Patapievici, Liiceanu, Plesu — cercul Humanitas/GDS) a definit anti-comunismul cultural post-89 ca denuntare morala a nomenklaturii. Critica de stanga (CriticAtac, Cistelecan) il acuza de auto-distinctie morala a elitei si dispret fata de perdantii tranzitiei. Argus citeaza ambele ca pozitii, nu ca adevar."
+        },
+        "post_communist_substrate": {
+            "securitate_double_life": "Reteaua de informatori a Securitatii: ~400.000-700.000 colaboratori la ~22M locuitori (~1 la 30-43 cetateni). A produs psihologia 'peretii au urechi': auto-cenzura, dubla viata (sine privat printre 2-3 intimi, fata conformista pentru rest). Radacina increderii interpersonale scazute si a dependentei de retele.",
+            "unresolved_revolution": "Revolutia din 1989 ramane neelucidata (revolutie populara / lovitura a nomenklaturii / interventie externa). 'Cine a tras in noi dupa 22?' fara raspuns. Consecinta: publicul cauta default 'mana ascunsa' in spatele evenimentelor majore — conspiratia e modul cognitiv default, nu o margine extremista.",
+            "mineriade_cleavage": "Iunie 1990: mineri + fosti securisti zdrobesc Piata Universitatii. Fixeaza clivajul durabil 'Romania lui Iliescu' (varstnic, rural, industrial, etatist) vs 'Romania Pietei Universitatii' (tanar, urban, educat, pro-Vest) — se suprapune azi pe geografia PSD-AUR vs USR-Dan.",
+            "homo_sovieticus": "Varianta 'statul sa dea': neincredere in toate institutiile formale cuplata cu asteptarea ca ele sa furnizeze; neputinta invatata, externalizarea vinei. Avertisment: e si o lentila moralizatoare a elitelor; multe trasaturi sunt raspunsuri adaptive la socul tranzitiei.",
+            "communist_nostalgia": "INSCOP/IICCMER iulie 2025: 55.8% spun ca regimul comunist a fost 'mai degraba bun', 66.2% considera Ceausescu 'conducator bun', 48.4% spun ca viata era mai buna inainte de 1989. Concentrata la varstnici, rural, educatie primara, venit mic. Nu adeziune la marxism-leninism — vot de protest impotriva tranzitiei; punte directa catre votul AUR/Georgescu."
+        },
+        "master_cleavages": {
+            "urban_rural": "Variabila master. ~44-45% rural. Racordare canalizare: ~99% urban vs ~19% rural. Risc de saracie/excluziune: ~45% rural vs ~18.5% urban (cel mai mare decalaj UE). ~44% analfabetism functional la 15 ani (PISA 2022), preponderent rural. In T1 prezidentiale mai 2025 suveranistul a luat 36/41 judete; 'centura rosie' PSD se suprapune pe zonele fara canalizare.",
+            "habsburg_ottoman": "Cel mai adanc predictor non-economic al culturii civice. Vest de Carpati (Habsburg pana 1918): incredere institutionala mai mare, clientelism redus, vot reformist. Vechiul Regat (suzeranitate otomana, administratie fanariota 1711-1821): ortodox-monopolist, retele de patronaj, rule-of-law slab — inima baroniilor PSD. T2 mai 2025 a reprodus harta: reformistul a luat Transilvania+urban+judete maghiare, suveranistul Vechiul Regat rural + Moldova.",
+            "generational": "Contra-intuitiv: pensionarii din era comunista sunt MAI PUTIN susceptibili la candidati aliniati Rusiei decat barbatii tineri Gen Z. ~31% din 18-24 ani au votat Georgescu in nov 2024 vs ~8% din 65+. Cauza: dieta media — tinerii pe TikTok (~32h30/luna), varstnicii pe TV partizan. Estetica suveranista pentru tineri e adiacenta culturii 'manosphere', nu nostalgiei comuniste.",
+            "diaspora": "Variabila inversata, acum ea insasi fragmentata. ~4.5-5M in afara tarii. Pre-2020 reformista, anti-PSD. 2024-25 viraj suveranist: ~61% T1 diaspora mai 2025 (Italia/Spania ~74%), ~55% T2. DAR nu mai e bloc: suveranistul a luat diaspora veche muncitoreasca Italia-Spania-UK; reformistul a luat R. Moldova (~88%), Ucraina (~75%), SUA (~70%), Canada (~69%), Ungaria (~92%). A se segmenta pe vechime, tara, tip de migratie."
+        },
+        "interpretive_caution": "Niciun portret de tip 'romanul este X' nu e un dat fix — e o ipoteza istoric-conditionata. Argus numeste lentila cand o aplica si pastreaza polemica intelectuala fara sa ia partida."
+    },
+    "last_update": "2026-05-28T03:56:52+03:00"
+}

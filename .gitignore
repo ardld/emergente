@@ -1,0 +1,7 @@
+node_modules
+.vercel
+.env
+.cache
+public/report.html
+public/data.json
+data/state-history/*.json

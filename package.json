@@ -1,0 +1,30 @@
+{
+  "name": "serban",
+  "version": "1.0.0",
+  "description": "serban — hybrid news/intel monitor: bla-main delivery + contextpolitic subjects + argus brain (self-updating, durable). Romanian politics + emerging tech, daily email to 2-3 recipients.",
+  "type": "module",
+  "scripts": {
+    "build": "node build-report.js",
+    "build:nosend": "node build-report.js --no-deliver",
+    "refresh-context": "node build-report.js --force-context --no-deliver",
+    "dev": "node build-report.js --no-deliver && npx serve public"
+  },
+  "keywords": [
+    "romania",
+    "politics",
+    "tech",
+    "osint",
+    "news",
+    "ai",
+    "monitoring"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "rss-parser": "^3.13.0",
+    "he": "^1.2.0"
+  },
+  "optionalDependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}

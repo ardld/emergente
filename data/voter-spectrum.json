@@ -1,0 +1,51 @@
+{
+  "version": "2026-03-20",
+  "description": "Spectru electoral 5 poziții — Progresist → Conservator. Psihologie per segment, profil demografic, surse media.",
+  "positions": {
+    "1": {
+      "label": "Progresist",
+      "sublabel": "Pro-UE, cosmopolit",
+      "profile": "Urban, studii superioare, sub 40",
+      "psychology": "Openness ridicat, identitate europeană. Îngrijorat de suveranism, susține coaliția contra AUR dar o detestă. Vrea alegeri libere dar se teme de rezultat.",
+      "media_diet": ["g4media.ro", "recorder.ro", "pressone.ro", "Europa Liberă"],
+      "parties_affinity": ["USR", "PNL"],
+      "emotional_triggers": ["democrație", "stat de drept", "UE", "anti-corupție"]
+    },
+    "2": {
+      "label": "Centru-stânga",
+      "sublabel": "Reformist pragmatic",
+      "profile": "Urban, clasă medie, anti-corupție",
+      "psychology": "Pragmatic reformist, anti-corupție. Frustrat de lipsa reformelor dar recunoaște pericolul AUR. Oscilează USR-abținere.",
+      "media_diet": ["digi24.ro", "hotnews.ro", "biziday.ro", "spotmedia.ro"],
+      "parties_affinity": ["USR", "PNL"],
+      "emotional_triggers": ["reformă", "eficiență", "meritocraie", "transparență"]
+    },
+    "3": {
+      "label": "Centru",
+      "sublabel": "Neutru, stabilitate",
+      "profile": "Nehotărât, oscilant, vrea liniște",
+      "psychology": "Vrea stabilitate. Obosit de criza politică, nu mai crede pe nimeni. Inflația și facturile contează mai mult decât politica.",
+      "media_diet": ["stirileprotv.ro", "libertatea.ro", "adevarul.ro"],
+      "parties_affinity": ["PSD", "PNL"],
+      "emotional_triggers": ["prețuri", "facturi", "liniște", "normalitate"]
+    },
+    "4": {
+      "label": "Centru-dreapta",
+      "sublabel": "Tradițional, patriot",
+      "profile": "Rural/mic-urban, 40+, biserică",
+      "psychology": "Tradițional, patriot. Simpatic cu Georgescu dar nu extremist. Frustrat de UE. Vrea lider puternic. Pro-biserică, sceptic NATO.",
+      "media_diet": ["antena3.ro", "cotidianul.ro", "activenews.ro"],
+      "parties_affinity": ["AUR", "PSD"],
+      "emotional_triggers": ["familie", "tradiție", "suveranitate", "biserică"]
+    },
+    "5": {
+      "label": "Conservator",
+      "sublabel": "Naționalist, suveranist",
+      "profile": "Mobilizat, TikTok, anti-sistem",
+      "psychology": "Naționalist mobilizat prin furie. Convins că alegerile au fost furate, CCR = statul paralel, Georgescu = salvator. Anti-UE, TikTok/Telegram ca sursă primară.",
+      "media_diet": ["TikTok", "Telegram", "YouTube conspirații"],
+      "parties_affinity": ["AUR", "SOS", "POT"],
+      "emotional_triggers": ["trădare", "suveranitate", "Georgescu", "anti-sistem"]
+    }
+  }
+}

@@ -1,0 +1,230 @@
+SELDONIC FOUNDATION DOCUMENT
+Motor analitic pentru predictii politice romanesti
+Compilat din: Seldon Report (psychohistory), Real Power Politics (Balkan framework), How Romanian Politics Works (structural analysis), Mechanics of Power (Bucharest Politics Newsletter)
+Imbogatit (mai 2026) cu: critica mitologiei nationale (Boia), bovarism geo-cultural (Antohi), particularism si guvernare clientelara (Mungiu-Pippidi), stalinism national si continuitati leniniste (Tismaneanu), republica absenta (D. Barbu), sociologie a mentalitatilor post-comuniste, date INSCOP/IICCMER 2025-2026.
+===
+
+SECTIUNEA I: CONSTANTELE COMPORTAMENTALE (AXIOME PSIHOISTORICE)
+
+Acestea sunt presupunerile despre comportamentul colectiv romanesc care raman stabile indiferent de regim, conditii economice sau generatie. Functioneaza ca constante matematice in orice ecuatie predictiva.
+
+CONSTANTA 1: ASTEPTAREA ESECULUI INSTITUTIONAL
+Populatia opereaza pe presupunerea ca institutiile formale vor esua. Nu e pesimism — e calibrare predictiva. Cand se anunta o lege noua, raspunsul colectiv nu e "va functiona?" ci "cum va esua si cum ma pozitionez sa supravietuiesc esecului?" Increderea in anunturile guvernamentale opereaza la zero. Un guvern care esueaza "mai putin catastrofal decat asteptat" genereaza aprobare.
+IMPLICATIE PREDICTIVA: Orice criza produce adaptare individuala (tezaurizare, activare retele, economie informala) nu cerere colectiva de raspuns institutional.
+
+CONSTANTA 2: RETEAUA CA INSTITUTIE PRIMARA
+Institutiile formale fiind presupuse nesigure, romanii au construit structuri institutionale paralele bazate pe retele personale (familie, nasii, cohorte scolare, origini regionale, relatii de favoare-datorie). Cand se confrunta cu orice problema, prima intrebare nu e "care e procedura oficiala?" ci "pe cine cunosc care poate ajuta?" Capitalul social se acumuleaza prin ajutor mutual demonstrat. Refuzul de a ajuta un membru al retelei distruge pozitia sociala; ajutorul creeaza pretentii viitoare.
+IMPLICATIE PREDICTIVA: Campaniile anti-coruptie genereaza sprijin performativ (coruptia e resentita) dar rezistenta practica (reteaua e supravietuire). Orice incercare de a inlocui sistemele informale cu cele formale intampina sabotaj tacut.
+
+CONSTANTA 3: OPTIUNEA DE IESIRE (EMIGRAREA)
+~25-30% din cetatenii romani traiesc in afara Romaniei. Emigrarea nu e vazuta ca esec ci ca strategie legitima. Remitentele si migratia de intoarcere creeaza un pod economic si psihologic care permite societatii sa functioneze fara reforma interna.
+IMPLICATIE PREDICTIVA: Orice criza produce presiune spre exterior inainte de confruntare interna. Stabilitatea politica e partial mentinuta de absenta celor care ar cere schimbare.
+
+CONSTANTA 4: CONFORMARE PERFORMATIVA SI REZISTENTA SUBSTANTIALA
+Societatea romaneasca a dezvoltat mecanisme sofisticate de a parea ca se conformeaza cerintelor externe (tribut otoman, cerinte ideologice sovietice, regulamente UE) mentinand autonomia interna prin non-conformare. Legile exista intr-un spatiu conceptual separat de comportament. Cand autoritatile externe cer reforme, institutiile romanesti dezvolta "teatru de conformare" elaborat — rapoarte, agentii, angajamente publice — in timp ce comportamentul se schimba minimal.
+IMPLICATIE PREDICTIVA: Cerintele UE genereaza documentatie dar nu schimbare institutionala genuina. Reforma reala poate emerga doar din coalitie interna, nu din mandat extern.
+
+CONSTANTA 5: CINISM CUPLAT CU REZILIENTA SURPRINZATOARE
+Populatia mentine o viziune aproape absolut cinica asupra politicii, combinata cu o asteptare la fel de profunda ca viata va continua indiferent de dezastru politic. "Asta e Romania" — livrat cu un ridicat din umeri — incapsuleaza o viziune a lumii care asteapta disfunctie dar se asteapta si sa o indure. Toleranta la absurd politic e remarcabil de ridicata pentru ca asteptarea de baza e ca politica e teatru, nu guvernare.
+IMPLICATIE PREDICTIVA: Protestele raman limitate daca nu sunt amenintate conditii materiale imediate (pensii, salarii). Scandalurile de coruptie abstracte genereaza oboseala nu mobilizare.
+
+===
+
+SECTIUNEA II: ALGORITMII DE RASPUNS LA CRIZA
+
+ALGORITM A: CRIZA ECONOMICA (Probabilitate 94%)
+1. Activare imediata retea → 2. Expansiune economie informala → 3. Crestere presiune emigrare → 4. Dezangajare politica → 5. Persistenta (populatia indura)
+
+ALGORITM B: SCANDAL POLITIC (Probabilitate 88%)
+1. Indignare performativa → 2. Calibrare la asteptare ("asta fac politicienii") → 3. Evaluare retea ("poate reteaua mea beneficia de caderea lui?") → 4. Potential protest limitat → 5. Revenire la baza
+
+ALGORITM C: PRESIUNE EXTERNA UE/FMI (Probabilitate 91%)
+1. Angajament public → 2. Teatru legislativ → 3. Decalaj implementare → 4. Rezistenta adaptiva → 5. Acomodare pe termen lung (unele schimbari genuine prin schimbare generationala)
+
+ALGORITM D: MOBILIZARE NATIONALISTA (Probabilitate 85%)
+1. Activare emotionala rapida → 2. Competitie politica pentru a aparea patriotic → 3. Unitate scurta apoi instrumentalizare → 4. Durata scurta → 5. Schimbare atitudinala reziduala
+
+ECUATII PREDICTIVE:
+- Reforma reala ≈ 0.30 × Reforma anuntata
+- Prag mobilizare: Nemultumire × Imediere × Lider > Cinism × Alternative_retea
+- Incredere institutionala = f(Incredere_retea_personala)^(-1) — inversate
+- Stabilitate = f(Crestere_economica, Presiune_emigrare, Integritate_retea)
+
+===
+
+SECTIUNEA III: MECANICA STRUCTURALA A PUTERII (MARTIE 2026)
+
+SISTEMUL BARONILOR LOCALI
+77% din cele 3.200+ municipalitati nu isi pot acoperi costurile administrative din venituri fiscale locale si depind de distributia Consiliului Judetean. Baronul local controleaza accesul la locuri de munca, contracte si servicii. 65 baroni identificati in toata Romania, preponderent PSD. Achizitiile publice = ~13% din PIB. 21.4% din contracte merg la ofertanti unici (proxy pentru licitatii aranjate).
+
+PARTIDELE CA MASINI DE PATRONAJ
+Partidele romanesti sunt organizatii extrem de centralizate, dominate de lider, cu ancorare ideologica slaba. In legislatura 2012-2016: 37% din deputati si 39% din senatori au schimbat afilierea de partid. PSD si PNL impart ADN institutional — ambele descind din FSN. UDMR opereaza ca partener junior permanent, extragand influenta ministeriala disproportionata.
+
+CAPTAREA STATULUI
+Romania mentine ~1.500 intreprinderi de stat — un rezervor masiv de patronaj. CCR a fost cea mai structural capturata institutie: 33 de ani PSD a controlat majoritatea curtii. Protocoalele SRI-DNA: 565 protocoale secrete, ~20.000 interceptari telefonice/an in numele DNA.
+
+SERVICIILE DE INFORMATII
+SRI are ~12.000 operativi — dublu fata de orice agentie europeana echivalenta. Continuitate institutionala din Securitate. Generatia curenta de operativi sunt "in multe cazuri, copiii celor 16.000 membri Securitate." Functioneaza ca tesut conjunctiv al puterii romanesti.
+
+DIASPORA — VARIABILA SCHIMBATA PERMANENT
+Inainte de 2020 diaspora era reformista anti-PSD. In 2024: AUR + SOS + POT au primit >55% din voturile diasporei. Migrantii muncitori duc vieti izolate unde telefoanele si bisericile ortodoxe sunt canale culturale principale — ambele vectori pt mesaje de dreapta.
+
+===
+
+SECTIUNEA IV: CONTRACTUL SOCIAL
+
+GENERATIA DECRETEI
+Cea mai mare cohorta demografica, nascuta dupa decretul din 1966 de interzicere a avorturilor. Acum 40-60 ani. Anti-comunisti ca reflex dar patrioti ca sentiment. Conservatori emotional nu educational. Tanjesc dupa timpuri mai vechi, fals romantizate. Tin echilibrul puterii in alegerile romanesti.
+
+PSD CA "ONG"
+PSD functioneaza mai mult ca un ONG decat un partid: o organizatie care opereaza independent de guvern, impartind putere si resurse prin propriile retele. A construit coruptie unde inainte era doar foame. Niciun partid nu poate fi social de dreapta cu atatia votanti varstnici care vor eviscera orice politician care le ameninta pensiile.
+
+MEDIA CA MARFA
+Partidele cheltuie 81% din subventiile de stat pe achizitii media. Ce cumpara nu e acoperire pozitiva ci protectie. Captarea functioneaza prin dependente financiare nu prin cenzura. Doar 20% din romani cred ca presa e libera de influenta politica.
+
+===
+
+SECTIUNEA V: MOSTENIREA CONSTANTINOPOL-BALCANICA
+
+STILUL BALCANIC/CONSTANTINOPOL (vs. Western):
+- Baza autoritatii: Carisma personala, distributie patronaj (nu legitimitate institutionala)
+- Orientare loialitate: Verticala catre patron (nu orizontala catre clasa/interes)
+- Orizont temporal: Scurt, oportunist (nu lung, programatic)
+- Pattern coruptie: Sistemic, normalizat (nu deviant, sanctionat)
+- Recrutare elite: Patrimoniala, retea (nu meritocratica)
+
+FATADA EUROPEANA
+Maiorescu (1868): "Forme fara fond" — importul neconditionat de forme institutionale occidentale fara substanta. Post-1989 acelasi pattern: cicluri repetate de reforma — constitutii noi, agentii anti-coruptie, reorganizari judiciare — care ating conformitate formala in timp ce practicile substantiale raman neschimbate.
+
+TRADAREA LA ROMANI
+Nu accident istoric ci trasatura structurala. Anticiparea tradarei genereaza comportamente defensive — incredere restrictiva, defectiune preemptiva, investitie in retele personale — care fac tradarea mai probabila. Narativa e disponibila pentru mobilizare politica de toate taberele.
+
+ADAPTAREA RETELELOR INFORMALE
+Trasatura cea mai izbitoare: nu absenta institutiilor democratice formale ci subminarea lor sistematica de retele informale de putere. "Institutionalizare informala" — persistenta si adaptarea guvernarii bazate pe retele in ciuda schimbarilor radicale in regulile formale. Retelele penetreaza si captureaza institutii noi pe masura ce sunt create.
+
+===
+
+SECTIUNEA VI: INDICATORI CANTITATIVI
+
+Romania 2023-2024:
+- CPI (Corruption Perceptions): 46/100 (media UE: 64)
+- Rule of Law Index: 0.58 (media UE: 0.74)
+- Deficit bugetar 2024: 9.3% din PIB (cel mai mare din UE)
+- Datorie publica: ~55% PIB
+- Scor Economist Democracy Index: retrogradat la "regim hibrid" (2024) — singura tara UE
+- Participare vot parlamentar: 33% (2020), 52.5% (2024 — criza)
+- 88% opusi iesirii din UE
+- ~70% incredere NATO
+- 20% cred ca presa e libera
+- 23% incredere in Parlament
+
+===
+
+SECTIUNEA VII: TEORIA JOCURILOR IN COALITII ROMANESTI
+
+MODELUL ZERO-SUM AL COALITIEI
+Coalitiile romanesti nu sunt jocuri cooperative. Sunt echilibre Nash fragile pe distributia functiilor. Fiecare partid maximizeaza ministere, agentii si numiri — nu output legislativ sau guvernare efectiva. Aceasta nu e o disfunctie: e structura de baza. Coalitia functioneaza nu pentru ca partenerii coopereaza, ci pentru ca costul iesirii depaseste costul ramanerii.
+
+ECHILIBRUL NASH FRAGIL
+Echilibrul se mentine cat timp:
+- Costul defectiunii (pierderea functiilor + risc electoral) > Costul ramanerii (compromis ideologic + eroziuna bazei)
+- Niciun partener nu are o alternativa credibila (coalitie alternativa viabila sau castig net din opozitie)
+- Socurile externe nu schimba radical calculul (sondaje, scandal, criza economica, presiune UE)
+
+Cand oricare din aceste conditii se modifica, echilibrul devine instabil. Defectiunea nu vine din principiu ci din calcul: momentul in care un partid estimeaza ca pierde mai putin iesind decat ramanand.
+
+PRAGUL DE DEFECTIUNE (DEFECTION THRESHOLD)
+Formula implicita: D = (Valoarea_functii_actuale + Cost_reputational_iesire) - (Castig_electoral_opozitie + Valoare_pozitionare_viitor)
+Cand D < 0, partidul iese. Momentele clasice de defectiune:
+- Inainte de alegeri (pozitionarea conteaza mai mult decat functia)
+- Dupa scandal al partenerului (costul reputational al ramanerii creste)
+- Cand sondajele arata ca baza electorala sanctioneaza compromisul
+
+PROBLEMA ANGAJAMENTELOR CREDIBILE
+Promisiunile din coalitie nu sunt credibile fara mecanisme de enforcement. In Romania, singurul enforcement e amenintarea reciproca cu destabilizarea. Aceasta creeaza un joc de tip "chicken" — fiecare partid ameninta ca iese, sperand ca celalalt cedeaza. Rezultatul: concesii progresive catre cel mai disperat, nu catre cel mai competent.
+
+ASIMETRIA INFORMATIEI IN COALITIE
+Partidele din coalitie au informatii private despre:
+- Starea reala a sondajelor interne (vs cele publice)
+- Planurile de defectiune ale propriilor factiuni
+- Negocieri paralele cu opozitia
+Aceasta asimetrie face ca semnalele publice (declaratii, amenintari) sa fie strategic noise, nu informatie reala. Predictiile trebuie sa ignore retorica si sa urmareasca actiunile concrete: numiri, voturi in parlament, deplasari, intalniri.
+
+APLICATIE PREDICTIVA
+Pentru orice coalitie activa:
+1. Identifica echilibrul Nash curent (cine tine ce, cine pierde ce)
+2. Evalueaza pragul de defectiune pentru fiecare partener (D > 0 = stabil, D aproape de 0 = instabil)
+3. Monitorizeaza socurile care modifica calculul (sondaje, scandaluri, presiune externa)
+4. Ignora retorica publica — urmareste realocari de functii, voturi split, absente strategice
+5. Coalitia se rupe cand primul partid trece pragul D < 0 si are alternativa credibila
+
+===
+
+SECTIUNEA VIII: GRILA DE LECTURA — CUM SE CITESTE "MINTEA ROMANEASCA"
+
+Aceasta sectiune este o instructiune metodologica. "Caracterul national" este teren de disputa intelectuala, NU o doctrina. Argus nu trateaza niciun portret psihologic ca esenta fixa a unui popor; foloseste lentile multiple simultan si numeste lentila cand o aplica. Un portret de tip "romanul este X" e intotdeauna o ipoteza istoric-conditionata, nu un dat biologic.
+
+LENTILA 1 — DECONSTRUCTIA MITULUI (Boia)
+Miturile fondatoare romanesti — continuitatea daco-romana, "2000 de ani de unitate", insula latina intr-o mare slava, victima eterna a istoriei — sunt constructii de secol 19, nu fapte istorice stabilite. Sunt permanent reactivabile politic. REGULA OPERATIONALA: cand un actor invoca aceste mituri, semnalul nu este un argument istoric ci un act de mobilizare identitara — codificheaza-l ca atare. Atentie: Boia deconstruieste mitul, nu absolva. Istoria conditioneaza comportamentul, nu il scuza; fatalismul ("asta e blestemul nostru") este el insusi un mit ce serveste non-responsabilitatea.
+
+LENTILA 2 — PENDULUL BOVARISM / ONTOLOGIE ETNICA (Antohi)
+Auto-imaginatia romaneasca oscileaza intre doua miscari opuse:
+- BOVARISM GEO-CULTURAL: fuga orizontala spre un Vest idealizat; Romania gandita "afara" din locatia ei reala, comparata nu cu vecinii ci cu Franta sau Belgia; discurs al rusinii ("suntem balcanici, orientali, intarziati") cuplat cu compensatie ("suntem cei mai latini, cel mai francofil popor").
+- ONTOLOGIE ETNICA: fuga verticala in adancime mitologizata (sol, ortodoxie, taran, substrat dacic) — se activeaza cand fuga bovarica spre Vest esueaza sau umileste.
+REGULA OPERATIONALA: la analiza oricarui discurs politic, intreaba in ce registru opereaza. Suveranismul AUR/Georgescu 2024 = reactivare violenta a ontologiei etnice dupa ~30 de ani de faza bovarica (aderarea UE/NATO). Pendularea e predictibila: umilinta bovarica (esec de a "ajunge din urma" Vestul) alimenteaza valul ontologic-etnic urmator.
+
+LENTILA 3 — PARTICULARISMUL CA REGIM DE GUVERNARE (Mungiu-Pippidi)
+Reformuleaza CONSTANTA 2. Coruptia in Romania nu este "abatere de la o norma universala" ci REGIMUL DE GUVERNARE implicit — particularism: domnia conexiunilor personale, a statutului si a retelelor patron-client peste universalismul etic. Post-1989 = "particularism competitiv" — retele oligarhice multiple care se disputa resursele statului prin alegeri (inlocuind monopolul particularist comunist). IMPLICATIE PREDICTIVA CHEIE: votantii ASTEAPTA particularism si il recompenseaza electoral; o campanie anti-coruptie nu corecteaza o deviatie, ci ataca echilibrul insusi — de aici rezistenta sistemica, nu doar sabotaj punctual. Valul DNA 2013-2018 a fost o unda contrara, intampinata cu reactie politica feroce.
+
+NOTA DE ECHILIBRU INTELECTUAL
+Exista o polemica vie pe care Argus o pastreaza in minte fara sa ia partida: blocul liberal-conservator (cercul Humanitas/GDS — Patapievici, Liiceanu, Plesu) a definit anti-comunismul cultural post-1989 ca denuntare morala a nomenklaturii. Critica de stanga (CriticAtac, Cistelecan) il acuza ca substituie auto-distinctia morala a elitei analizei costurilor reale ale tranzitiei neoliberale, tratand cu dispret majoritatea perdanta. Barbu ("republica absenta"): Romania are forme constitutionale din 1866 si multipartidism din 1990, dar nu o cultura politica republicana — niciun proiect civic comun, sub forme democratice persistand un stat privatizat, clientelar. Argus citeaza aceste pozitii ca pozitii, nu ca adevar stabilit.
+
+===
+
+SECTIUNEA IX: SUBSTRATUL PSIHOLOGIC POST-COMUNIST
+
+Acestea sunt paternuri cognitive care s-au format sub regimul comunist si NU au disparut in 1990. Functioneaza ca strat de baza sub comportamentul politic curent.
+
+PSIHOLOGIA DUBLEI VIETI (mostenirea Securitatii)
+Reteaua de informatori a Securitatii e estimata la 400.000-700.000 de colaboratori la o populatie de ~22 milioane — aproximativ 1 informator la fiecare 30-43 de cetateni. Ubicuitatea a fost cultivata deliberat. A produs psihologia "peretii au urechi": auto-cenzura, presupunerea ca orice cunoscut poate raporta, si o dubla viata structurala — un sine privat autentic pastrat printre 2-3 intimi, o fata conformista aratata restului lumii. IMPLICATIE: increderea interpersonala scazuta si dependenta de retele restranse (CONSTANTA 2) nu sunt trasaturi pitoresti — sunt sechele functionale. Conformarea performativa (CONSTANTA 4) are aici radacina psihologica.
+
+SUSPICIUNEA MAINII ASCUNSE (Revolutia nerezolvata)
+Revolutia din 1989 ramane neelucidata: coexista trei naratiuni — revolutie populara, lovitura de stat a nomenklaturii reformiste care a folosit mobilizarea populara, interventie externa. Intrebarea "cine a tras in noi dupa 22?" nu are raspuns oficial. Aceasta este o trauma fondatoare. IMPLICATIE PREDICTIVA: publicul roman cauta in mod default "mana ascunsa" in spatele oricarui eveniment politic major. Teoriile conspiratiei nu sunt o margine extremista — sunt modul cognitiv default de procesare a evenimentelor. Orice analiza care prezinta un eveniment ca fiind exact ceea ce pare va fi resimtita de o parte a publicului ca naiva sau complice.
+
+CLIVAJUL MINERIADELOR
+In iunie 1990, dupa victoria electorala FSN, ~10.000 de mineri — alaturati, cum au confirmat anchetele parlamentare, de fosti ofiteri de Securitate — au zdrobit protestul din Piata Universitatii, atacand universitati, institute si trecatori cu aspect "intelectual". A fixat un clivaj durabil: "Romania lui Iliescu" (varstnic, rural, industrial, etatist) vs "Romania Pietei Universitatii" (tanar, urban, educat, pro-Vest). Acest clivaj din 1990 se suprapune azi aproape exact pe geografia electorala PSD-AUR vs USR-Dan. Cand analizezi o confruntare politica romaneasca, intreaba mai intai de care parte a acestui clivaj se afla fiecare tabara.
+
+HOMO SOVIETICUS — VARIANTA "STATUL SA DEA"
+Sindromul: neputinta invatata, externalizarea vinei, paternalism, cerere de furnizare din partea statului. Formula romaneasca: cetatenii NEINCRED in toate institutiile formale dar ASTEAPTA totusi ca ele sa furnizeze. ATENTIE METODOLOGICA: "homo sovieticus" este si o lentila moralizatoare folosita de elitele liberale impotriva perdantilor tranzitiei — multe dintre aceste trasaturi sunt raspunsuri adaptive rationale la socul terapiei de soc, nu defecte de caracter. Foloseste lentila pentru a explica comportament, nu pentru a-l condamna.
+
+NOSTALGIA COMUNISTA CA VOT DE PROTEST
+Date INSCOP/IICCMER, iulie 2025: 55.8% dintre romani spun ca regimul comunist a fost "mai degraba bun" pentru Romania; 66.2% considera Ceausescu "un conducator bun"; 48.4% spun ca viata era mai buna inainte de 1989. Nostalgia e concentrata la varstnici, rural, educatie primara, venit mic. INTERPRETARE CRITICA: nu este o adeziune la marxism-leninism — este un vot de protest impotriva tranzitiei (dezindustrializare, coruptie, inegalitate, esecul elitelor de a produce un "plan de tara"). Puntea catre votul suveranist AUR/Georgescu este directa: acelasi sentiment de a fi fost abandonat de tranzitie.
+
+===
+
+SECTIUNEA X: CLIVAJELE MAJORE — HARTA STRUCTURALA A ELECTORATULUI
+
+Comportamentul electoral romanesc nu este aleatoriu; este organizat de patru clivaje care se suprapun. Orice predictie electorala incepe prin a localiza subiectul pe aceste axe.
+
+CLIVAJUL 1 — URBAN / RURAL (variabila master)
+Romania ramane printre cele mai rurale societati din UE (~44-45% rural). Decalajul de infrastructura este brutal: ~99% din urban e racordat la canalizare vs ~19% in rural; ~45% dintre ruralii romani sunt in risc de saracie sau excluziune sociala vs ~18.5% in orase — cel mai mare decalaj urban-rural din UE. ~44% dintre tinerii de 15 ani sunt analfabeti functional (PISA 2022), preponderent rural. CONSECINTA ELECTORALA: in T1 al alegerilor prezidentiale din mai 2025, candidatul suveranist a luat 36 din 41 de judete; "centura rosie" PSD se suprapune aproape perfect pe zonele fara canalizare. Bucuresti-Ilfov, prin contrast, este una dintre cele mai bogate regiuni NUTS-2 din UE la paritate si voteaza anti-PSD aproape in fiecare ciclu.
+
+CLIVAJUL 2 — HABSBURG / OTOMAN-FANARIOT (cel mai adanc predictor non-economic al culturii civice)
+Judetele de vest de Carpati (sub administratie habsburgica pana in 1918) arata constant: incredere institutionala mai mare, cultura civica mai puternica, clientelism mai redus, vot reformist mai ridicat — sedimentul birocratiei austriece, al oraselor burgheze germane si al pluralismului confesional. Vechiul Regat (Valahia + Moldova, suzeranitate otomana, administratie fanariota 1711-1821) este ortodox-monopolist, cu traditie de retele de patronaj si cultura rule-of-law mai slaba — inima baroniilor PSD. Banatul/Timisoara are o auto-identificare civic-vestica de lunga durata (Revolutia din 1989 a inceput la Timisoara). Tinutul Secuiesc (Harghita, Covasna) ancoreaza UDMR. T2 din mai 2025 a reprodus exact aceasta harta: candidatul reformist a luat Transilvania, marile orase, Bucuresti si judetele maghiare; suveranistul a luat Vechiul Regat rural si regiunea Moldova.
+
+CLIVAJUL 3 — RUPTURA GENERATIONALA (contra-intuitiva — atentie)
+Asteptarea naiva — "varstnicii nostalgici sunt vulnerabili la mesaje pro-ruse" — este GRESITA. Pensionarii din era comunista sunt MAI PUTIN susceptibili la candidati aliniati Rusiei decat barbatii tineri din Gen Z. ~31% dintre alegatorii de 18-24 ani au votat Georgescu in noiembrie 2024, fata de ~8% dintre cei peste 65 de ani. Explicatia este dieta de media: tinerii traiesc pe TikTok (utilizatorul roman mediu ~32h30/luna — cea mai folosita aplicatie ca timp), varstnicii pe televiziunea partizana de cablu. Estetica suveranista pentru tineri este adiacenta culturii "manosphere" (judo, cal alb, pietate ortodoxa, "barbat adevarat"), nu nostalgiei comuniste.
+
+CLIVAJUL 4 — DIASPORA (variabila inversata, acum ea insasi fragmentata)
+~4.5-5 milioane de romani traiesc in afara tarii — cea mai mare populatie emigranta din UE in termeni relativi. Inainte de 2020 diaspora era reformista, anti-PSD (majoritarul-surpriza al lui Iohannis in 2014, coloana vertebrala #rezist 2017-2018). In 2024-2025 a virat suveranist dur: candidatul AUR a luat ~61% din T1 al diasporei in mai 2025 (Italia ~74%, Spania ~74%) si ~55% in T2. DAR diaspora nu mai este monolitica: suveranistul a castigat diaspora veche, muncitoreasca, din Italia-Spania-Marea Britanie; reformistul a castigat Republica Moldova (~88%), Ucraina (~75%), SUA (~70%), Canada (~69%), Ungaria (~92%) — diaspora post-sovietica si hub-urile intelectuale vestice. REGULA OPERATIONALA: nu trata "diaspora" ca un bloc; segmenteaz-o pe vechime, tara si tip de migratie (muncitoreasca vs profesionala/academica).
+
+NOTA OPERATIONALA PENTRU CELE PATRU CLIVAJE
+Cand Argus produce o analiza de impact sau o predictie electorala, primul pas este triangularea subiectului pe aceste axe: este urban sau rural; intra- sau extra-carpatic; ce cohorta de varsta si ce dieta de media; daca atinge diaspora, care segment. Cele patru clivaje se suprapun partial, dar nu se reduc unul la altul — si explica impreuna mai mult din varianta votului romanesc decat orice variabila ideologica.
+
+===
+
+NOTA FINALA: INTREBAREA ROMANEASCA
+
+"Romania nu e o versiune esuata a Europei de Vest. E o versiune de succes a altceva — o civilizatie care supravietuieste imperiului, ideologiei si colapsului institutional mentinand singura institutie care nu a dezamagit-o niciodata: reteaua de obligatii mutuale pe care romanii o numesc cumetrii si relatii."
+
+Intrebarea predictiva nu e "cum schimbam asta?" ci "cum lucram cu asta?"

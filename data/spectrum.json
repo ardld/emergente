@@ -1,0 +1,32 @@
+{
+  "1": {
+    "label": "Progresist",
+    "sublabel": "Pro-UE, cosmopolit",
+    "profile": "Urban, studii superioare, sub 40",
+    "psychology": "Crede în cooperare internațională, drepturi individuale, reformă sistemică. Reacționează cu argumente bazate pe date și valori europene. Îngrijorat de retrocedarea democrației."
+  },
+  "2": {
+    "label": "Centru-stânga",
+    "sublabel": "Reformist pragmatic",
+    "profile": "Urban, clasă medie, anti-corupție",
+    "psychology": "Vrea schimbare dar nu revoluție. Pragma­tic, crede că sistemul se poate repara. Reacționează la nedreptăți concrete. Sensibil la argumente despre corupție și bunăstare."
+  },
+  "3": {
+    "label": "Centru",
+    "sublabel": "Neutru, stabilitate",
+    "profile": "Nehotărât, oscilant, vrea liniște",
+    "psychology": "Obosit de politică, vrea stabilitate și normalitate. Nu are poziții ferme ideologice. Reacționează la promisiuni de liniște și la teamă de haos."
+  },
+  "4": {
+    "label": "Centru-dreapta",
+    "sublabel": "Tradițional, patriot",
+    "profile": "Rural/mic-urban, 40+, biserică",
+    "psychology": "Valori tradiționale, familie, credință, muncă. Patriot fără să fie extremist. Suspicios față de schimbarea rapidă. Reacționează la teme de identitate națională și morală."
+  },
+  "5": {
+    "label": "Conservator",
+    "sublabel": "Naționalist, suveranist",
+    "profile": "Mobilizat, TikTok, anti-sistem",
+    "psychology": "Convins că sistemul e corupt și că elitele îi trădează. Caută un lider-mesia. Reacționează emoțional, nu rațional. Mobilizat de frică și de sentiment de umilință națională."
+  }
+}
